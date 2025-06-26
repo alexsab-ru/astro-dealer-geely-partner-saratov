@@ -15,6 +15,11 @@ export default defineConfig({
 			configFile: './tailwind.geely.js'
 		}),
 		sitemap({
+			filter: (page) =>
+				page !== 'https://geely-partner-saratov.ru/p/' &&
+				page !== 'https://geely-partner-saratov.ru/t/',
+		}),
+		sitemap({
 			filter: (page) => !page.endsWith('telegram-bot/') && !page.endsWith('redirect/')
 		}),
 		robots({
