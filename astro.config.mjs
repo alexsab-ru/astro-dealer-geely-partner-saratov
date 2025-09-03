@@ -38,6 +38,11 @@ export default defineConfig({
 					],
 				},
 				{
+					userAgent: "Googlebot",
+					allow: ["/"],
+					disallow: ["/?*"],
+				},
+				{
 					userAgent: ["*"],
 					allow: ["/"],
 					disallow: ["/?*"],
