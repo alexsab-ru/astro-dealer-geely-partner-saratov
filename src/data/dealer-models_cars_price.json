@@ -37,6 +37,12 @@
   },
   {
     "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 3524190,
+    "benefit": 373000
+  },
+  {
+    "brand": "Geely",
     "model": "Preface",
     "price": 2568190,
     "benefit": 999000
