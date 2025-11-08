@@ -1,81 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>c62cadafd157fc0f7783b641644dd73f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4017190</price>
-			<credit_discount>616000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>816000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S15RB148024</vin>
-			<description>Партнер Авто Саратов!
-
-Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в июле. He упустите!
-
-
-В нашем дилерском центре стартовала грандиозная акция!
-
-5 лет без забот!*
-
-- ТО с нулевого до 5
-- 10 шинных отелей (сезонное хранение шин)
-
-*за 1 рубль при покупке нового автомобиля.
-
-
- Скидки дo 10% нa весь модельный ряд Gееly!
- Подарок при покупке: бесплатное дополнительное оборудование. .
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/3fb3f8262d96ab4581747ecd75391025.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/31012739bbf03fa585de484f493cf116.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/38d003c9e9b6e8d1a9e316f682e01e66.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/7b605f7f1184606709b750608131ccfc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/e5bfcc539136e6c6cd36f9e31cb029f2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/83d0b0e22c09f9688dd1854f9bfee1b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/c4d1e795e27fd92597b0f171083a5a66.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/274616aeeb635839cdb54fcc66ab842d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fc1eb3cad3f4d4c7173cf4e3bce905a9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/8dd972d10aae2211d3f15cc489b4940a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fed2d5fe23d19c0c75b1adc9df9e4fc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/529d5f553fbd186fd4d316b66039c99c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/0048578d94038d66cfbcaa40813f73d1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/05bf2731d2d17fc682c1cdb1ebf7ef07.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fb4498f166772db41d9eacb571bef83f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/5f665613b84e18da62785800d0522412.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/6690a4118ea3473ffd4ccbac9c5c5b7b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/ba85116c23eba63187421877d265b162.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/3857d8a9e1ea3e8a600e8a2749cba4a9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fe5a9f55af7bfe08cd01b545745e3c21.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/66999a8b4080fa77b6cfc08c24840236.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/4b45bfb9cb781dfed89c79d466ac2040.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/6c978ff1d6138af991c10464a2591771.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/1e1ea61557c8df6735ac4e56fb5d9fd9.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серебристый-2024/</url></car>
-		<car>
 			<unique_id>bc2b4b415ee80369e6e5979183cc0436</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -148,6 +73,81 @@
 				<image>https://photo.toyotasever.ru/LB3FX1S12RB169008/057045417d02185181120755c82b05b9.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S12RB169008/15ca3007bcfaef097f1eb8564e96412b.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S12RB169008/957c816ff3f334883376d7462ef049c0.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серебристый-2024/</url></car>
+		<car>
+			<unique_id>c62cadafd157fc0f7783b641644dd73f</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>4017190</price>
+			<credit_discount>616000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>816000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S15RB148024</vin>
+			<description>Партнер Авто Саратов!
+
+Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. Предложение действует только в июле. He упустите!
+
+
+В нашем дилерском центре стартовала грандиозная акция!
+
+5 лет без забот!*
+
+- ТО с нулевого до 5
+- 10 шинных отелей (сезонное хранение шин)
+
+*за 1 рубль при покупке нового автомобиля.
+
+
+ Скидки дo 10% нa весь модельный ряд Gееly!
+ Подарок при покупке: бесплатное дополнительное оборудование. .
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/3fb3f8262d96ab4581747ecd75391025.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/31012739bbf03fa585de484f493cf116.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/38d003c9e9b6e8d1a9e316f682e01e66.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/7b605f7f1184606709b750608131ccfc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/e5bfcc539136e6c6cd36f9e31cb029f2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/83d0b0e22c09f9688dd1854f9bfee1b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/c4d1e795e27fd92597b0f171083a5a66.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/274616aeeb635839cdb54fcc66ab842d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fc1eb3cad3f4d4c7173cf4e3bce905a9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/8dd972d10aae2211d3f15cc489b4940a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fed2d5fe23d19c0c75b1adc9df9e4fc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/529d5f553fbd186fd4d316b66039c99c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/0048578d94038d66cfbcaa40813f73d1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/05bf2731d2d17fc682c1cdb1ebf7ef07.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fb4498f166772db41d9eacb571bef83f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/5f665613b84e18da62785800d0522412.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/6690a4118ea3473ffd4ccbac9c5c5b7b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/ba85116c23eba63187421877d265b162.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/3857d8a9e1ea3e8a600e8a2749cba4a9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/fe5a9f55af7bfe08cd01b545745e3c21.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/66999a8b4080fa77b6cfc08c24840236.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/4b45bfb9cb781dfed89c79d466ac2040.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/6c978ff1d6138af991c10464a2591771.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB148024/1e1ea61557c8df6735ac4e56fb5d9fd9.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серебристый-2024/</url></car>
 		<car>
