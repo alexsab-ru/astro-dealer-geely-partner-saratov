@@ -7,6 +7,12 @@
   },
   {
     "brand": "BELGEE",
+    "model": "X50",
+    "price": 1951093,
+    "benefit": 739097
+  },
+  {
+    "brand": "BELGEE",
     "model": "X70",
     "price": 2515990,
     "benefit": 80000
@@ -16,6 +22,12 @@
     "model": "Atlas",
     "price": 3137190,
     "benefit": 580000
+  },
+  {
+    "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 3247190,
+    "benefit": 650000
   },
   {
     "brand": "Geely",
