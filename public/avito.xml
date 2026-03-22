@@ -1,92 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>9e71275ed9178c5b882025d987e9bdb6</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
-Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
-
- Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
-
-ГАРАHТИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3 970 990 р. 
-
-Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
-Возможен торг.</Description>
-		<Price>3970990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>900000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Atlas</Model>
-		<GenerationId>18767585</GenerationId>
-		<ModificationId>18791860</ModificationId>
-		<ComplectationId>18791861</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3FX1S10TB010477</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>991db40c5e0c50b524ebdf69f70fdef7</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -174,23 +87,22 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>6e823fd5fd5c3b89442d0079ff45746d</Id>
+		<Id>9e71275ed9178c5b882025d987e9bdb6</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
-Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+		<Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
+Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
 
  Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
 
-ГАРАНTИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+ГАРАHТИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
 
 ⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
 
@@ -201,48 +113,55 @@
 ❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
 
 
-Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3’450 т.р
+При оплате наличными цена нового автомобиля составит 3 970 990 р. 
 
-
-Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
+Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
 Возможен торг.</Description>
-		<Price>3449990</Price>
-		<TradeinDiscount>190000</TradeinDiscount>
-		<CreditDiscount />
+		<Price>3970990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>580000</MaxDiscount>
-		<Color>Зеленый</Color>
+		<MaxDiscount>900000</MaxDiscount>
+		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" />
 		</Images>
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
-		<ModificationId>22531416</ModificationId>
-		<ComplectationId>22531417</ComplectationId>
+		<ModificationId>18791860</ModificationId>
+		<ComplectationId>18791861</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Робот</Transmission>
 		<Year>2025</Year>
@@ -250,7 +169,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB3FX1S70TB008281</VIN>
+		<VIN>LB3FX1S10TB010477</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -332,6 +251,87 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3FX1S77TB008181</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>6e823fd5fd5c3b89442d0079ff45746d</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
+Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+
+ Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
+При оплате наличными цена нового автомобиля составит 3’450 т.р
+
+
+Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
+Возможен торг.</Description>
+		<Price>3449990</Price>
+		<TradeinDiscount>190000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>580000</MaxDiscount>
+		<Color>Зеленый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22531416</ModificationId>
+		<ComplectationId>22531417</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S70TB008281</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -1075,6 +1075,91 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>75b3280393897a8355d3ac023562aa2f</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>800000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D2SS274172</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>23ddb6d5892cf1646b1c26744db36d57</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -1159,91 +1244,6 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D0SS274123</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>75b3280393897a8355d3ac023562aa2f</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
-		<Price>4899990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>800000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>18491657</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D2SS274172</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -1655,92 +1655,6 @@
 		
 		
 		
-	<Id>13bf58ba5d458f77014dbb81f4c3235e</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
-Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
-
- Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
-
-ГАРАHТИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3 970 990 р. 
-
-Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
-Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010478</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>fd466960b41283076ebcb2bfff961b0c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
 Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
 Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
@@ -1827,17 +1741,16 @@
 		
 		
 		
-	<Id>c465d8ee12845d252366d1f821594fd0</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
-Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+	<Id>13bf58ba5d458f77014dbb81f4c3235e</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
+Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
 
  Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
 
-ГАРАНTИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+ГАРАHТИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
 
 ⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
 
@@ -1848,13 +1761,13 @@
 ❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
 
 
-Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3’450 т.р
+При оплате наличными цена нового автомобиля составит 3 970 990 р. 
 
-
-Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
-Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
+Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -1877,7 +1790,14 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008282</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010478</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1958,6 +1878,86 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/07607d784ef2f22307ad381754bc5d6c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/56a959effb4ea15c31874d4a5a4255cb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/54f67544165c2c1cacbd86b8c5329b5a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/9eb13e25e3fa4c869cf02f544f2ef944.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8dc3bbdfba4e0a6a8bdbb578df16c020.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/347e8ce320c4cd05ec46ffccd54b4bde.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/11210a8c53f2e3a102bac37eae7d50e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/c3f6ec86c05e142123d5a414ea0f502a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/d53ef69a4cd753abede874ed2c1d9137.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f9054b3ad5eead4912afe3baead453e1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8bb39f47963699b23386bf75ee1eaf7e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/97640d0b0f8c6cbf4f87be116d63931a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/a2511a9155009d42c2c7621a5761f003.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f0ddce9d09f3afc9494084efd124a90b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/ed8da41f37c5c11a68a1e52e319a4ea3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f2e26b95c049505fd40aee09272f6808.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/7b319dbe28c2114e3010fa1fcfca5df4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/4f2cf991840d43dddd6b88022e097c21.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/16caba1c83b344ca3305c01973fb2aff.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/01d86b8f71cfca2057a214d245464240.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f99450a62b43d4a132b7e77a81cee726.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/bc182be52330e4aa414c24e308f5fff8.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S77TB008182</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>c465d8ee12845d252366d1f821594fd0</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
+Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+
+ Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
+При оплате наличными цена нового автомобиля составит 3’450 т.р
+
+
+Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
+Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008282</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2715,6 +2715,90 @@
 		
 		
 		
+	<Id>152f1ecd39f0b9097559c15f3eaea854</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274173</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>f5ec4fe3d529b2c206074f3e283265cb</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -2773,90 +2857,6 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f6a3c50f41d4e927b2a8aecd256b8ecc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b64988ebc1b62da9a44f65b5fcf81054.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/8e02eb66b2582cfdd23706047a72449e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f4aac29da6a2782b80aba3368034ba2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/dba8789c1b1caa5ec8f9435427fbe664.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af391228bf2895bcea5120193a883912.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ee7609069c05621d8a4193f13eabfba8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/330ace18471410cedf49c965a811283d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/51d400aea4815d2629da536726a77f12.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d3a763bf31e868ed6c263917357dd2da.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2abfa2a014c918b7673afeaabff5f25e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/77b62a561151c5977bb30e897e4d91ce.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/75539e6f657bfef5d7896ec6cd75a95b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/5b64564138a5cb1f968ac829fad29fa4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/59bf6dc5ffdc5082312af2aad074e162.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/0575010e22a12d686cfabef3054cc47a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/18c33a0b9887b28d77839742caec5b69.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7fb7c8f7983b74aa475878684933026a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b266e5aeb44b35f6c9fb884b28a2e97c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d94f193cd8fb12c1cb7a9dec5f4b004b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7e537be1910ea663d5f11d2d24c7716e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/077deadf3f3c86923e8ab6f6b8c955cf.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/aefb76f082b9d0782d079cc3f7d78079.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9dc9710754722aeb1988ead9ae1059b1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ad9dcfe2df527e1d3474f34cac242c6f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3067bcc73d7fba7e5e7918d1982c121f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f54ee5ea9836875bebcbd199b52dfde7.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2a4866b67750887ffb56ef8741bb86e3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ab2d0fc2c25597db9bc97a006eccd27d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d9d83ad9d3b6c68d94e2b7f9feb864c0.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af3c64a8ffaf9bc64ac8c04cdc38fc85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/283fa55aebf5c15551504c112cbca1a5.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f939147e609699ed67a9cbf075bbd6e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/c683389c837f7898752735d58184f238.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/bf881cbf18044d18c98ef52935f7c733.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9270382bbc79d6cdd4de5a32011838df.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D0SS274124</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>152f1ecd39f0b9097559c15f3eaea854</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274173</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3258,92 +3258,6 @@
 		
 		
 		
-	<Id>dc8960453c302d1d18b1148de4be68b7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
-Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
-
- Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
-
-ГАРАHТИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3 970 990 р. 
-
-Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
-Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010479</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>b3821a703202e0ba73bfdd4d2d23ad1d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
 Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
 Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
@@ -3430,17 +3344,16 @@
 		
 		
 		
-	<Id>b852b2d24fed4594deb866da541eb96c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
-Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+	<Id>dc8960453c302d1d18b1148de4be68b7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
+Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
 
  Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
 
-ГАРАНTИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+ГАРАHТИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
 
 ⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
 
@@ -3451,13 +3364,13 @@
 ❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
 
 
-Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3’450 т.р
+При оплате наличными цена нового автомобиля составит 3 970 990 р. 
 
-
-Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
-Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
+Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -3480,7 +3393,14 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008283</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010479</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3561,6 +3481,86 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/07607d784ef2f22307ad381754bc5d6c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/56a959effb4ea15c31874d4a5a4255cb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/54f67544165c2c1cacbd86b8c5329b5a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/9eb13e25e3fa4c869cf02f544f2ef944.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8dc3bbdfba4e0a6a8bdbb578df16c020.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/347e8ce320c4cd05ec46ffccd54b4bde.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/11210a8c53f2e3a102bac37eae7d50e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/c3f6ec86c05e142123d5a414ea0f502a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/d53ef69a4cd753abede874ed2c1d9137.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f9054b3ad5eead4912afe3baead453e1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8bb39f47963699b23386bf75ee1eaf7e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/97640d0b0f8c6cbf4f87be116d63931a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/a2511a9155009d42c2c7621a5761f003.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f0ddce9d09f3afc9494084efd124a90b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/ed8da41f37c5c11a68a1e52e319a4ea3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f2e26b95c049505fd40aee09272f6808.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/7b319dbe28c2114e3010fa1fcfca5df4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/4f2cf991840d43dddd6b88022e097c21.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/16caba1c83b344ca3305c01973fb2aff.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/01d86b8f71cfca2057a214d245464240.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f99450a62b43d4a132b7e77a81cee726.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/bc182be52330e4aa414c24e308f5fff8.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S77TB008183</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>b852b2d24fed4594deb866da541eb96c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
+Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+
+ Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
+При оплате наличными цена нового автомобиля составит 3’450 т.р
+
+
+Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
+Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008283</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4318,6 +4318,90 @@
 		
 		
 		
+	<Id>e9a0e5353d013341366a470d4cd6be17</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274174</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>f04bf1b3f563fe48ead71a6b0c22b8db</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -4376,90 +4460,6 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f6a3c50f41d4e927b2a8aecd256b8ecc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b64988ebc1b62da9a44f65b5fcf81054.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/8e02eb66b2582cfdd23706047a72449e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f4aac29da6a2782b80aba3368034ba2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/dba8789c1b1caa5ec8f9435427fbe664.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af391228bf2895bcea5120193a883912.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ee7609069c05621d8a4193f13eabfba8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/330ace18471410cedf49c965a811283d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/51d400aea4815d2629da536726a77f12.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d3a763bf31e868ed6c263917357dd2da.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2abfa2a014c918b7673afeaabff5f25e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/77b62a561151c5977bb30e897e4d91ce.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/75539e6f657bfef5d7896ec6cd75a95b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/5b64564138a5cb1f968ac829fad29fa4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/59bf6dc5ffdc5082312af2aad074e162.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/0575010e22a12d686cfabef3054cc47a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/18c33a0b9887b28d77839742caec5b69.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7fb7c8f7983b74aa475878684933026a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b266e5aeb44b35f6c9fb884b28a2e97c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d94f193cd8fb12c1cb7a9dec5f4b004b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7e537be1910ea663d5f11d2d24c7716e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/077deadf3f3c86923e8ab6f6b8c955cf.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/aefb76f082b9d0782d079cc3f7d78079.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9dc9710754722aeb1988ead9ae1059b1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ad9dcfe2df527e1d3474f34cac242c6f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3067bcc73d7fba7e5e7918d1982c121f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f54ee5ea9836875bebcbd199b52dfde7.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2a4866b67750887ffb56ef8741bb86e3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ab2d0fc2c25597db9bc97a006eccd27d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d9d83ad9d3b6c68d94e2b7f9feb864c0.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af3c64a8ffaf9bc64ac8c04cdc38fc85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/283fa55aebf5c15551504c112cbca1a5.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f939147e609699ed67a9cbf075bbd6e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/c683389c837f7898752735d58184f238.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/bf881cbf18044d18c98ef52935f7c733.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9270382bbc79d6cdd4de5a32011838df.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D0SS274125</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>e9a0e5353d013341366a470d4cd6be17</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274174</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4861,92 +4861,6 @@
 		
 		
 		
-	<Id>cf87edc50f0d75244ba349754bf8fd73</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
-Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
-
- Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
-
-ГАРАHТИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3 970 990 р. 
-
-Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
-Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010480</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>6c3dfe266e54fe8d917c2bf899141bef</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
 Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
 Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
@@ -5033,17 +4947,16 @@
 		
 		
 		
-	<Id>5f6165ecd6a6289c924d623f67898be5</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
-Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+	<Id>cf87edc50f0d75244ba349754bf8fd73</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
+Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
 
  Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
 
-ГАРАНTИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+ГАРАHТИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
 
 ⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
 
@@ -5054,13 +4967,13 @@
 ❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
 
 
-Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3’450 т.р
+При оплате наличными цена нового автомобиля составит 3 970 990 р. 
 
-
-Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
-Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
+Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -5083,7 +4996,14 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008284</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010480</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -5164,6 +5084,86 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/07607d784ef2f22307ad381754bc5d6c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/56a959effb4ea15c31874d4a5a4255cb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/54f67544165c2c1cacbd86b8c5329b5a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/9eb13e25e3fa4c869cf02f544f2ef944.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8dc3bbdfba4e0a6a8bdbb578df16c020.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/347e8ce320c4cd05ec46ffccd54b4bde.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/11210a8c53f2e3a102bac37eae7d50e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/c3f6ec86c05e142123d5a414ea0f502a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/d53ef69a4cd753abede874ed2c1d9137.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f9054b3ad5eead4912afe3baead453e1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8bb39f47963699b23386bf75ee1eaf7e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/97640d0b0f8c6cbf4f87be116d63931a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/a2511a9155009d42c2c7621a5761f003.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f0ddce9d09f3afc9494084efd124a90b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/ed8da41f37c5c11a68a1e52e319a4ea3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f2e26b95c049505fd40aee09272f6808.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/7b319dbe28c2114e3010fa1fcfca5df4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/4f2cf991840d43dddd6b88022e097c21.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/16caba1c83b344ca3305c01973fb2aff.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/01d86b8f71cfca2057a214d245464240.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f99450a62b43d4a132b7e77a81cee726.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/bc182be52330e4aa414c24e308f5fff8.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S77TB008184</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>5f6165ecd6a6289c924d623f67898be5</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
+Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+
+ Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
+При оплате наличными цена нового автомобиля составит 3’450 т.р
+
+
+Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
+Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008284</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -5921,6 +5921,90 @@
 		
 		
 		
+	<Id>578c508a700d438f658d71080f68316e</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274175</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>33d025c17f944d448b82e0ed5e2a75b9</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -5979,90 +6063,6 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f6a3c50f41d4e927b2a8aecd256b8ecc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b64988ebc1b62da9a44f65b5fcf81054.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/8e02eb66b2582cfdd23706047a72449e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f4aac29da6a2782b80aba3368034ba2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/dba8789c1b1caa5ec8f9435427fbe664.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af391228bf2895bcea5120193a883912.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ee7609069c05621d8a4193f13eabfba8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/330ace18471410cedf49c965a811283d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/51d400aea4815d2629da536726a77f12.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d3a763bf31e868ed6c263917357dd2da.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2abfa2a014c918b7673afeaabff5f25e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/77b62a561151c5977bb30e897e4d91ce.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/75539e6f657bfef5d7896ec6cd75a95b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/5b64564138a5cb1f968ac829fad29fa4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/59bf6dc5ffdc5082312af2aad074e162.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/0575010e22a12d686cfabef3054cc47a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/18c33a0b9887b28d77839742caec5b69.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7fb7c8f7983b74aa475878684933026a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b266e5aeb44b35f6c9fb884b28a2e97c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d94f193cd8fb12c1cb7a9dec5f4b004b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7e537be1910ea663d5f11d2d24c7716e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/077deadf3f3c86923e8ab6f6b8c955cf.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/aefb76f082b9d0782d079cc3f7d78079.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9dc9710754722aeb1988ead9ae1059b1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ad9dcfe2df527e1d3474f34cac242c6f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3067bcc73d7fba7e5e7918d1982c121f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f54ee5ea9836875bebcbd199b52dfde7.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2a4866b67750887ffb56ef8741bb86e3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ab2d0fc2c25597db9bc97a006eccd27d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d9d83ad9d3b6c68d94e2b7f9feb864c0.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af3c64a8ffaf9bc64ac8c04cdc38fc85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/283fa55aebf5c15551504c112cbca1a5.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f939147e609699ed67a9cbf075bbd6e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/c683389c837f7898752735d58184f238.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/bf881cbf18044d18c98ef52935f7c733.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9270382bbc79d6cdd4de5a32011838df.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D0SS274126</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>578c508a700d438f658d71080f68316e</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274175</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -6464,92 +6464,6 @@
 		
 		
 		
-	<Id>7ac18c31bc0e98fefb1da147c8056c87</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
-Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
-
- Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
-
-ГАРАHТИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3 970 990 р. 
-
-Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
-Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010481</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>5383b09b213769cb38b980aa9cacf307</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
 Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
 Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
@@ -6636,17 +6550,16 @@
 		
 		
 		
-	<Id>1a8dfc5329ea6f2246dc03a853f77188</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
-Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+	<Id>7ac18c31bc0e98fefb1da147c8056c87</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
+Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
 
  Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
 
-ГАРАНTИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+ГАРАHТИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
 
 ⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
 
@@ -6657,13 +6570,13 @@
 ❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
 
 
-Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3’450 т.р
+При оплате наличными цена нового автомобиля составит 3 970 990 р. 
 
-
-Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
-Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
+Возможен торг.</Description><Price>3970990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>150000</CreditDiscount><InsuranceDiscount /><MaxDiscount>900000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -6686,7 +6599,14 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008285</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfa504a0297a689cf2cc7520e73198a0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f611faa98c0216077e21901b6189bd50.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c45367d2d73e38bc471c6a1055453c33.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9f616e511c271151c03d9822670e4130.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/4870f60090b5b02b8699a240ded84c2e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c46fc5ee1b9e803fd43a1a1142723fbe.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7dd76776a2f0f1b8c84889a34f403b7c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/3a069237421866138f4a398b6add4648.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/76c62d473c90838c40b077d7129297e9.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/53368a9e8f6558fe789da13271f54e73.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/bfec737977377a37fdca490ed96e199c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/82871b6194873f8303efb151cde546a5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/f43cbee9f270eea5ca280a22a5489a6a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/a52aac79383bda6f125c7d5f22884915.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/100111d2484d59724e106b2d34b99a69.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/57d648e37d323b3f1ffca1d9e500c239.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4f088e36cecc1036f9813eacfdb3ef8.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/fc201dc53fb22d07859de36f832d572b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/5fba462fc1132e60c3e9176b6887a10b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/b4d68405fd0229419bd1f4ed6ec6dad4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/6958f43641dff2723e5b1939bbd3d67a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/206e12b408ed75af8d01aa78ce77c295.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/7485855d6b07245c76b3789c8b365757.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/9e81ad0c8f42945f2f97218c3c0abf09.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/70f74246fd0564bb66d87714dbce1ccd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/e9e879f9fe7386835be95b773acbb77e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/dbe5b4154819c6758daafc9cc3b5168c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/92ae1bb7f9d19a670f03f46443e575e2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S10TB010477/c7552ade8eebf884fa435e03126d7b9a.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S10TB010481</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -6767,6 +6687,86 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/07607d784ef2f22307ad381754bc5d6c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/56a959effb4ea15c31874d4a5a4255cb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/54f67544165c2c1cacbd86b8c5329b5a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/9eb13e25e3fa4c869cf02f544f2ef944.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8dc3bbdfba4e0a6a8bdbb578df16c020.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/347e8ce320c4cd05ec46ffccd54b4bde.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/11210a8c53f2e3a102bac37eae7d50e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/c3f6ec86c05e142123d5a414ea0f502a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/d53ef69a4cd753abede874ed2c1d9137.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f9054b3ad5eead4912afe3baead453e1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/8bb39f47963699b23386bf75ee1eaf7e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/97640d0b0f8c6cbf4f87be116d63931a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/a2511a9155009d42c2c7621a5761f003.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f0ddce9d09f3afc9494084efd124a90b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/ed8da41f37c5c11a68a1e52e319a4ea3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f2e26b95c049505fd40aee09272f6808.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/7b319dbe28c2114e3010fa1fcfca5df4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/4f2cf991840d43dddd6b88022e097c21.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/16caba1c83b344ca3305c01973fb2aff.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/01d86b8f71cfca2057a214d245464240.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/f99450a62b43d4a132b7e77a81cee726.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S77TB008181/bc182be52330e4aa414c24e308f5fff8.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S77TB008185</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>1a8dfc5329ea6f2246dc03a853f77188</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
+Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+
+ Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 700 т.р.
+При оплате наличными цена нового автомобиля составит 3’450 т.р
+
+
+Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
+Возможен торг.</Description><Price>3449990</Price><TradeinDiscount>190000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>580000</MaxDiscount><Color>Зеленый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/5387a54b625f0bcc997273b6428e1ab5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/e5c28a12e282a9a4f2dd5cef6d13231d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/201055255d6e77f46b9a76aba97375e6.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/dc66d96322b16b243d851584c36ed76d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d12feba8875ca87f680c970f153b27c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ec8b1eef647dab9112ebdb70fdef67b1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8d21e58248eb9d00a05f347562f62134.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/27e8efc08e772c8015b53c63097ed896.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2e34a4596d90cba7ca6551249d8065d2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b27795362aa0c0df6f59abc824f19a62.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/f4d8fc2ed1faf61fd7bcdd4742d21e7f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/8027f294ad7f5cbfef030c4ad6eebb6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2a14aa2f5276372a6253d60c2b35e477.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/b8070966a61bec642026eb61de4abe96.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/9aa34b94ffbb38f671e634995a66b2e4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/35b135d99ab4a163eb8733182c2f5322.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/2f5dc9cdc6ce549ad7e589bcbbb83233.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/c697c49a3c30d17ca7e01a4322d428c4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d7617da1162cf6869a1ad236faea9c61.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/ed9cff48d64251dcc284ec6da21153b3.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/3b353e27c1feac6696b6b62e4f854905.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S70TB008281/d3b8f15b66338261ffaafaab5c57e063.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22531416</ModificationId><ComplectationId>22531417</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S70TB008285</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -7524,6 +7524,90 @@
 		
 		
 		
+	<Id>3d0cb083ae77410a6f6c19ed4cdc9957</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274176</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>5e60b823531fd7e8747eac128e0c084b</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -7582,90 +7666,6 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f6a3c50f41d4e927b2a8aecd256b8ecc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b64988ebc1b62da9a44f65b5fcf81054.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/8e02eb66b2582cfdd23706047a72449e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f4aac29da6a2782b80aba3368034ba2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/dba8789c1b1caa5ec8f9435427fbe664.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af391228bf2895bcea5120193a883912.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ee7609069c05621d8a4193f13eabfba8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/330ace18471410cedf49c965a811283d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/51d400aea4815d2629da536726a77f12.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d3a763bf31e868ed6c263917357dd2da.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2abfa2a014c918b7673afeaabff5f25e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/77b62a561151c5977bb30e897e4d91ce.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/75539e6f657bfef5d7896ec6cd75a95b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/5b64564138a5cb1f968ac829fad29fa4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/59bf6dc5ffdc5082312af2aad074e162.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/0575010e22a12d686cfabef3054cc47a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/18c33a0b9887b28d77839742caec5b69.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7fb7c8f7983b74aa475878684933026a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/b266e5aeb44b35f6c9fb884b28a2e97c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d94f193cd8fb12c1cb7a9dec5f4b004b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/7e537be1910ea663d5f11d2d24c7716e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/077deadf3f3c86923e8ab6f6b8c955cf.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/aefb76f082b9d0782d079cc3f7d78079.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9dc9710754722aeb1988ead9ae1059b1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ad9dcfe2df527e1d3474f34cac242c6f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3067bcc73d7fba7e5e7918d1982c121f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/f54ee5ea9836875bebcbd199b52dfde7.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/2a4866b67750887ffb56ef8741bb86e3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/ab2d0fc2c25597db9bc97a006eccd27d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/d9d83ad9d3b6c68d94e2b7f9feb864c0.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/af3c64a8ffaf9bc64ac8c04cdc38fc85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/283fa55aebf5c15551504c112cbca1a5.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/3f939147e609699ed67a9cbf075bbd6e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/c683389c837f7898752735d58184f238.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/bf881cbf18044d18c98ef52935f7c733.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D0SS274123/9270382bbc79d6cdd4de5a32011838df.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D0SS274127</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>3d0cb083ae77410a6f6c19ed4cdc9957</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8d9ebc94b1d9f8c3a28c66979e07ab31.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a1039a85256357f86cca4d6fa576b8e2.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/8c739d31574f0bc894a32a3e218eccda.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20181c9a44350aec80c67ef3b189f572.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/909509c43af18e75489aefbee6d1f086.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/c99354c2061f1ce2f9d38aff45a2bc36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/098e6da4d50afedcebbf701a489c447a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/505512a370d239a3e82caae8b51503e8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/20b3825302db7c40890af82d082612d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/3f956346826c0f1b44c81e679d475346.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/fa1440c3bd9d88b83238f2b9c02e964f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/510a44f0d19df05669fa4fe8af1adef8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f88b94223415480071729ecd4546b726.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0a7e5d2f0688a4ec3be227c880540922.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/ad3123a4fa5328ef3435b242cc703bf3.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/78852f8da167d83d3ff93b4922331e36.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/cde2720330103e603b5e4cc81424536c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2c55e0da35e9526f7809de6bba57f15b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/a66c8ad9f822ecd7296ca588778ead85.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4b94938470e303ea84edc21e154c6a71.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/2e8ca856473f8d167ed2dba0914904ff.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/f074c25c22c770f7725a412f5e83f698.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/4801d6e1d2a3bce2977f50f4df8763cd.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0290bcad997d70e5a602771509bdb533.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/293c92b0fc7f4016d95c07e4669292d8.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/6f48255f34fbb087853cdc9e6fe7ec53.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/d39148c66e446a5e441c2479b69bbd9f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/e86349e62b8d5c8098509aea0857a946.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/730cf3e192238028376a3e703524e104.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/aee2afa8a8889f9bbb8c933a5cb9bb8f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/9810ad13a922c6b7e2bd77534ff97afb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/0f9ceda384e0058559c1a76f7c2a7772.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D2SS274172/7b77b6f8b2ee8769ed809f0a4794ef49.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D2SS274176</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
