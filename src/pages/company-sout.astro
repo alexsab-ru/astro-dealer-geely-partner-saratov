@@ -1,90 +1,11 @@
 ---
-// Страница для размещения документов по специальной оценке условий труда
-// В соответствии с Федеральным законом №426-ФЗ
-import PageLayout from '@/layouts/PageLayout.astro';
-import settings from '@/data/site/settings.json';
-import { Icon } from 'astro-icon/components';
-
-const { site_name } = settings;
-
-// Массив документов для отображения
-const documents = [
-	{
-		title: 'Декларация соответствия 1',
-		url: 'https://cdn.alexsab.ru/docs/saratov-auto-lux/Декларация%20соответствия%201.pdf',
-	},
-	{
-		title: 'Декларация соответствия 2',
-		url: 'https://cdn.alexsab.ru/docs/saratov-auto-lux/Декларация%20соответствия%202.pdf',
-	},
-	{
-		title: 'Перечень мероприятий',
-		url: 'https://cdn.alexsab.ru/docs/saratov-auto-lux/Перечень%20мероприятий.pdf',
-	},
-	{
-		title: 'Сводная 1',
-		url: 'https://cdn.alexsab.ru/docs/saratov-auto-lux/Сводная%201.pdf',
-	},
-	{
-		title: 'Сводная 2',
-		url: 'https://cdn.alexsab.ru/docs/saratov-auto-lux/Сводная%202.pdf',
-	},
-];
+import CompanySout from '@/content/company-sout.mdx';
+import { frontmatter as companySoutFrontmatter } from '@/content/company-sout.mdx';
+import LegalDocumentPage from '@/components/Legal/DocumentPage.astro';
 ---
 
-<PageLayout
-	h1="Специальная оценка условий труда"
-	title={`Специальная оценка условий труда - ${site_name}`}
-	description="Сводные данные о результатах проведения специальной оценки условий труда в соответствии с Федеральным законом №426-ФЗ"
-	breadcrumb={[{name:"Специальная оценка условий труда",href:"/company-sout/"}]}
->
-
-	<!-- Вводный текст с информацией о законе -->
-	<div class="mb-8 text-gray-700">
-		<p class="text-lg">
-			В соответствии с Федеральным законом №426-ФЗ «О специальной оценке условий труда» 
-			размещаем сводные данные о результатах проведения специальной оценки условий труда.
-		</p>
-	</div>
-
-	<!-- Список документов -->
-	<div class="space-y-4">
-		{documents.map((doc) => (
-			<a 
-				href={doc.url} 
-				target="_blank"
-				rel="noopener noreferrer"
-				class="flex items-center gap-4 p-5 bg-white border border-gray-200 rounded-lg hover:border-primary hover:shadow-md transition-all duration-200 group"
-			>
-				<!-- Иконка PDF документа -->
-				<div class="flex-shrink-0 w-12 h-12 flex items-center justify-center bg-red-50 rounded-lg group-hover:bg-red-100 transition-colors">
-					<Icon name="mdi:file-pdf-box" class="w-8 h-8 text-red-600" />
-				</div>
-
-				<!-- Название документа -->
-				<div class="flex-1">
-					<h3 class="text-lg font-semibold text-gray-900 group-hover:text-primary transition-colors">
-						{doc.title}
-					</h3>
-					<p class="text-sm text-gray-500">
-						PDF документ
-					</p>
-				</div>
-
-				<!-- Иконка открытия в новом окне -->
-				<div class="flex-shrink-0">
-					<Icon name="mdi:open-in-new" class="w-5 h-5 text-gray-400 group-hover:text-primary transition-colors" />
-				</div>
-			</a>
-		))}
-	</div>
-
-	<!-- Дополнительная информация -->
-	<div class="mt-10 p-5 bg-gray-50 rounded-lg border border-gray-200">
-		<p class="text-sm text-gray-600">
-			<strong>Обратите внимание:</strong> Документы откроются в новой вкладке браузера. 
-			Для просмотра PDF-файлов убедитесь, что в вашем браузере включена поддержка PDF.
-		</p>
-	</div>
-
-</PageLayout>
+<LegalDocumentPage
+	Content={CompanySout}
+	frontmatter={companySoutFrontmatter}
+	fallbackTitle="Специальная оценка условий труда"
+/>
