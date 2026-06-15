@@ -827,57 +827,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>fdf1c30d5a8ec482d566a79822e6e1f0</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
-		<Price>4899990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>800000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images />
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>18491657</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D6TS044409</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>6336d71d6d5e223fdace24f52d5067aa</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -925,6 +874,57 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D6TS047598</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>fdf1c30d5a8ec482d566a79822e6e1f0</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>800000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D6TS044409</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -999,6 +999,57 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>069c3386aecd36769307a75bc6854ab4</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>800000</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D8TS043973</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>56ad9715710e0c413a15e643ce9d587c</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -1046,6 +1097,108 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D8TS047831</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>80af4d3a19456b0739956408e397e8a6</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>800000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D9TS044968</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>9668b5badd7fca4a87646e239e1380d5</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>800000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D6TS046709</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -2253,56 +2406,6 @@
 		
 		
 		
-	<Id>0087b6be3102a75cc2b739a29e88d4bd</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044410</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>201ea71a7c288e406a6c1a871830c63e</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -2324,6 +2427,56 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS047599</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>0087b6be3102a75cc2b739a29e88d4bd</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044410</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2422,6 +2575,56 @@
 		
 		
 		
+	<Id>98f5b4ee096cdd37a06b109d5afd5d14</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS043974</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>c3e61dba6976bf078df120cbc0b31262</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -2443,6 +2646,106 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS047832</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>3f5df2a841753bd6940f95aa76656880</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D9TS044969</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>406278a99c1aabfb8da6dd93aa7b561c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS046710</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3641,56 +3944,6 @@
 		
 		
 		
-	<Id>d073bb1a8b22772812fed51da05d5757</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044411</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>b39a436ccce175cd8efd8ee7ae34a65d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -3712,6 +3965,56 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS047600</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>d073bb1a8b22772812fed51da05d5757</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044411</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3810,6 +4113,56 @@
 		
 		
 		
+	<Id>544c2c94729e691036f7a077e7b01f13</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS043975</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>36077330c0066b29e8c8d906c2054d8b</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -3831,6 +4184,106 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS047833</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>0772854be37a30f0a15226adfbadfd1e</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D9TS044970</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>2eba3c17b5ea80ccf7080e56e248b23f</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS046711</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -5029,56 +5482,6 @@
 		
 		
 		
-	<Id>ee22c7484076ae7aa507e92cf6f9481a</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044412</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>7172e92af98e7ed7ceafd72faf5dd91c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -5100,6 +5503,56 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS047601</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>ee22c7484076ae7aa507e92cf6f9481a</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044412</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -5198,6 +5651,56 @@
 		
 		
 		
+	<Id>a5fadb1979903a02ed47b514240291d6</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS043976</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>7fac6acfcbce52979eac53a442a9c08a</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -5219,6 +5722,106 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS047834</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>4d8e99b555791c878a04637f088ec9a2</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D9TS044971</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>c3efcd91ace824aceede99dba2d27550</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS046712</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -6417,56 +7020,6 @@
 		
 		
 		
-	<Id>5c6def4f79497ad96194d6fc3cb847ba</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044413</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>f01f9cb917194f33ac06230ee9cc07fd</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -6488,6 +7041,56 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS047602</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>5c6def4f79497ad96194d6fc3cb847ba</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS044413</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -6586,6 +7189,56 @@
 		
 		
 		
+	<Id>42b89b3d84cd58952066c763301010e7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS043977</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>4426323790e873ee3ef4c80df2e909d6</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
 
 Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
@@ -6607,6 +7260,106 @@
 Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
 Без кредита цена на новый автомобиль увеличится на 600 т.р.
 При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D8TS047835</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>b2a321419f253825277806cb0150ee11</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Серый</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D9TS044972</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>60809524d3b25ec8615074cbed9f8e2a</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description><Price>4899990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>800000</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>18491657</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D6TS046713</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
