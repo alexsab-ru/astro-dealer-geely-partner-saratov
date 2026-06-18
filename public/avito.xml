@@ -517,7 +517,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>550000</MaxDiscount>
+		<MaxDiscount>780000</MaxDiscount>
 		<Color>Голубой</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3G43S96TX404468/a988c911492a61ed4472ca46e5c1ef46.jpg" />
@@ -598,7 +598,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>550000</MaxDiscount>
+		<MaxDiscount>780000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Geely</Make>
@@ -1320,7 +1320,30 @@
 		<InsuranceDiscount />
 		<MaxDiscount>950000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/1bf9cd0b76adcf6e5083a9fae75f67e9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/821cab048d5a3a8654abbd0712626367.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/723e3ef39af178bb0f2238b063fe1069.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/569ea306bc02ef5ffced640b6c91391c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/6ae6f2cb7e15ffcb78e490300970c8b0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/08307af877972e0d52ce3423800a2b7e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/b8f43bf6153d642f6744c0cf4d3acdda.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/5078d642f7e6afb68bd9b1bd101d4922.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/8e82f280f41175075cb511ba0bd0a39e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/dafe06ff7a40ba836ac54e7031bb7210.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/73d8f98695132b93584ebe9df5e4ee5e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/ee5a0053d473a50fce392933cb02aea1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/0d84a383aa5f0d63b05f0a2335a4ca29.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/1455e4ace272b4300d3ef2a18b7b2299.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/0a43f3137b7f3a9b9cf199e466219e7a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/af0661b4ebd79ef55b9c5dfec85e5ff1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/4a9cbac281630464fe09e742bb0decdb.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/a5d2a4679f7cb237c49b8f33bcc9eafc.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/95c66b2a074aa79cae05ab046ae6cf9b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/a99d6f241e21f71180a5f1ca1b409172.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/bfb5af4a75d5cdfa5bc4273e93b49cd4.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY900533/a0a952b496196bf297eb8f5a77d5293f.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Okavango</Model>
 		<GenerationId>18803792</GenerationId>
