@@ -250,84 +250,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>6549ea2059be5e536049f4c864f2c17e</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
-Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
-
- Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
-Без кредита цена на новый автомобиль увеличится на 700 т.р.
-При оплате наличными цена нового автомобиля составит 3’450 т.р
-
-
-Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
-Возможен торг.</Description>
-		<Price>3449990</Price>
-		<TradeinDiscount>190000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>810000</MaxDiscount>
-		<Color>Серебряный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/5b327b5e1b21eb29e84cc6443d1679f3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/19c8274c02f720f74a70d91650bb20ae.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/93031f70cb4ab1afba86df3999afa160.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/552afc5e3bbc8f4167222ec7b376b001.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/ffaa806a410bb2c8aa42b15f11832b61.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/ffff3b1020eff8f5a5eb70b96f87bf52.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/cb07e2614a2d249797c5b238985d7420.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/47716ce76b667e1e50244fc3577dd989.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/8a4d972bbb92210ff673ed451606bfa9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/9bac0cf1ab56004236f40e79df57fa64.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/c14f4d5741c36f5ac03fcfc1453b935b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/7f8f0b04d62a46e16d5ff2330ec77be3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/ba268b1178807c75028c3d514767949c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/30e61a9c98f3950d5af406b8f4c8f518.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/8a9ddbe2ba3144f12863d53615b24c1f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/682e95211d039f0336f8a4c3a9d7bcef.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/97b02df9904af292f5cf1bf8d8f31a03.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/2ed9ea0dfe5d19fd8f81f984323533d5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB052326/999c49376a66a2dcdfc858e1f47a0e4e.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Atlas</Model>
-		<GenerationId>18767585</GenerationId>
-		<ModificationId>22531416</ModificationId>
-		<ComplectationId>22531417</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3FX1S77TB052326</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>3e402e44540a1e22b9ceb65009d0e122</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -487,7 +409,7 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>4657e64293645b650ff0322dfa471ca2</Id>
+		<Id>d63be4d2bc42168f3f848ec2962132cb</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -528,27 +450,27 @@
 		<MaxDiscount>780000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/59ea87f549920336a3a020f40ff73906.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/82fcfc598047079558e77588a9b83811.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/1a88c07b60f9ccfa98a2b1926d920eca.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/4006f9bb2a278919ed4150ee15f298d1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/42bba0b89a7c728d90af252e13b4f1ae.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/3ef9b4fc3c72f339ac6caefea4a9aba8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/c9248de72a592553086865af6f25e9d6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/2d551e1eaf31d66f674e602f759f4a50.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/34414ae39a155e46083eed3f32df8f7d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/f2c8341aaac204bc6da145d4d2b1aff3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/f66ab5cfe130d476400ecae2f66c2d61.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/8822136b64f1213c6fbf27d8cac108d7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/6429b8904c5f0dd1dbc76f0ebbf8c1db.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/5c06a036b0d72e086531c8a9246bd8f2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/d97257b5964015f5dbc81106b2edd554.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/79f4bfbfe8a1d87adc1750b5b4e74100.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/5237e9a37a1209f849f3bb0ab3ac44c4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/e18c6a392dad07945ba3b2e76428581c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/a25e63abdf9bc8b6df17102a08a459c0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/7af7bbc11f1e473ccc98bc2fa598e994.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S92TX409411/1e0024f49d64ebf60be6b61d9746715a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/081de7d242c63146431409487fa4b240.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/bfe2a9d1c10c32542d82c194ea738f0d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/e66f5288945c02fc8103cd002ea4e63a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/bbfb0affadd787698c851b7127c231c7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/cdba2efcad04530e50223ed2f1f76983.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/0504bd6154cb3878ee14ca877641789f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/f63258e6aff190f464b995b152932e9b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/2e16f944ba61fb64e09c66b768a0d92a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/256ac713c1cd56e39d42844857c83870.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/45fdab3ed03e94621310cd6ff0af37af.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/f3e03c4d5bb07daef8c676f1ec36e3ef.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/245d298f2f6ea39e39049f451b978418.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/ce2c94e4b404e56b0f8169a0f46aa02d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/a36a058f1d7f1ad2b8d301d7713e8aca.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/8223c7af30d7909c50b0c370a782cca8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/913396497a91ccad6a184bf080f0ae05.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/5e4c6294de531bb0ca4d9639cf30a63c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/a008246c6a830fac2864aee2791e89d9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/12457af0b4ef6a7ed392173c6b0ea611.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/f0681a1ab608b34c95931126f4e9481f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX405732/b0ac122a90c86de0040bfe34b39edd3c.jpg" />
 		</Images>
 		<Make>Geely</Make>
 		<Model>Cityray</Model>
@@ -562,7 +484,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB3G43S92TX409411</VIN>
+		<VIN>LB3G43S92TX405732</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
