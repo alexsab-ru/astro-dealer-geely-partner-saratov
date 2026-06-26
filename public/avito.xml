@@ -937,7 +937,29 @@
 		<InsuranceDiscount />
 		<MaxDiscount>850000</MaxDiscount>
 		<Color>Серебряный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/1efe90739257502b922c82ec636c0f3b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/35b223b0c05ad4304e33413e5cf677dd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/638dc856e2b613b9cb25345b0e6e3e3d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/1f0666e1754e6105895b268d9c6d9a5e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/c1683c359f31a7483ceead89225598d2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/825cb066ed870e5960789057a7ff4199.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/ee82949dde4bf06685366d020be466b5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/962bbf6a0cd12e960ae47f94115e8ab9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/bd1bc38fbf5751299953858e7b3c75fa.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/12271f4b4d0cc70f54e945d469759cfc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/b0da9919129b9ab7f0b491626d3c104a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/ffbb4f5b40e05eb76a19c31feaf3a8b3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/1ff238c4efab41e204254365e59d1469.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/6e76c34f9891c04c1ca44148b9e5e93d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/b5644e9ae709686e47149a8359859129.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/5a442d8e6b0afcbf4a52133b115f384d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/1ef8c5c3a8a815f9b99af470d0297de8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/84451709632160b86bc0883e4ca0ac31.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/d899d8ceba7518f46e3aa7d35f2b4a35.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/3f6d729764cedc3c308a94365d1b2990.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS043973/911bf92e5d55f3658d152d334e0f51be.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
 		<GenerationId>17481670</GenerationId>
