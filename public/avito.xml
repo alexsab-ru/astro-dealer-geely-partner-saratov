@@ -1340,57 +1340,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>e2e1a9ea71d8511907b55915837e63c9</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 400 т.р.
-При оплате наличными цена нового автомобиля составит 4 599 990 т.р</Description>
-		<Price>4599990</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>500000</MaxDiscount>
-		<Color>Серебряный</Color>
-		<Images />
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>18491656</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D0TS026262</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>400e7b0f1c092701d713ada83afe90a2</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
