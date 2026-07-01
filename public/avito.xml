@@ -1527,10 +1527,10 @@
 Купить Gееly в Саратове, Купить Жили в Саратове, Купить Джили в Саратове
 Возможен торг.</Description>
 		<Price>3429990</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>700000</MaxDiscount>
+		<MaxDiscount>450000</MaxDiscount>
 		<Color>Зеленый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/L6TFS1S88TD004339/0e737c125618fcb8d2b190b18f2f2cc0.jpg" />
@@ -1606,10 +1606,10 @@
 Купить Gееly в Саратове, Купить Жили в Саратове, Купить Джили в Саратове
 Возможен торг.</Description>
 		<Price>3329990</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>700000</MaxDiscount>
+		<MaxDiscount>450000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD011335/b2d0a7e80aef4b535e5cb5f37e276452.jpg" />
