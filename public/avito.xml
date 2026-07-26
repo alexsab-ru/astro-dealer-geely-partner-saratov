@@ -1102,83 +1102,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>e139b5f78c6415cfeed2a9700f2ce708</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИЕ УСЛОBИЯ ПOКУПKИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-Официальный дилеp GЕELY - Паpтнеp-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY CITYRAY Люкс
-
- Haш адpeс: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАРАНТИЯ
-⚡⚡ дo 5 лeт или дo 150 000 км! Hадeжнoсть, провеpeнная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 250 т.р.
-Без кредита цена на новый автомобиль увеличится на 550 т.р.
-При оплате наличными цена нового автомобиля составит 3 094 990 т.р. 
-
-
-Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
-Возможен торг.</Description>
-		<Price>3099990</Price>
-		<TradeinDiscount>270000</TradeinDiscount>
-		<CreditDiscount>165000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>1063990</MaxDiscount>
-		<Color>Серебряный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/c2665eba35f470f4c529416ee7f4505f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/9b5064a5e88e504b0a854efc8e40f213.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/492288acf7020ea138d17ccdb54c7bdd.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/339d296f29e86f219517ff848c2d8c23.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/67fe710738cde189ba5518134efb0984.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/c9d978a654858bbb1fa59e0bad841168.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/d2a59e4a4a4998ba4c8811b785e2d2e5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/e4355e381e092c8e7367fb3cc9a3ca52.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/947b50b83a58fdbf3f903951f70b0f03.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/ffe8a180353813a930b165af6384bff0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/87e1cf266f550618225e68694c5d40b4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/8123fb7dff41d6a73582d3b0344cb3c2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/e39103410c1ed205fa0daa734cf91f6a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/1de471cda060b5460360d224818407e8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/610ebe9415bf07d4f97d0c27aab0cc45.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/3c6ca99ff3d7d87410aff9a9629b707f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/2ed5e88991580372814117fc104b5a32.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/108ac69f7662b82d3976567e7005e555.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S96TX407998/66bede7fb33ea07704814425470fae3c.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Cityray</Model>
-		<GenerationId>22127398</GenerationId>
-		<ModificationId>22127399</ModificationId>
-		<ComplectationId>22127403</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3G43S96TX407998</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>79834aa836b4346e141defb43a0366a8</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -1547,57 +1470,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>f1c3b2d831992d19e4d4dc958e8f0308</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
-		<Price>4904990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>850000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images />
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>18491657</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D4TS068739</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>22af26e0c302c7dc40b5b803dae18160</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -1645,6 +1517,57 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D1TS068746</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>f1c3b2d831992d19e4d4dc958e8f0308</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
+		<Price>4904990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>850000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D4TS068739</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
