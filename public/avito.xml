@@ -1198,6 +1198,78 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>987c0e33528a3eef483986bc497d3b99</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
+
+Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 600 т.р.
+При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
+		<Price>4904990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>850000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/3c437390bf52789bfa951c39fe56fbcf.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/75c2b8ec56501cef8b25d7eca15d49b7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/40b8b0f716c69836acd9b341871bce63.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/2ceb149f0a51c948a7abe2a4e30beada.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/e271c2cc8fe5dee77ea614f87f67c20e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/c8287c3ad1a0f7f6bf34d56d27bb7d83.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/892e612f25a16bafa2870673793ced34.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/9028e39159f741bf3e16df0cbd8aa778.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/980b7b53dc41c8e2767f26623711d262.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/7e610aee28b9601284d669420a733980.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/3dcb41418fcdb1b945ee2cd906e7b77e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/1e97e4a75d3babd4c4ab196500389052.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/f6e5258a0b9af8d81162d43bfb2ee27e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/3f813164aa7225ea9c6c2666740ab20f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/a43aabb09497a4bf8719d9e8206852c4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/cf87a5abfbe5eb14daea1f9e0f085710.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/4c6211e63846f10a78bb6018f08b3cd2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/9270d2c246a1d77e0d3597bfcc6c2cc7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/87cdbbc73879fea6ba87fc6c0d5614b3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/e08b02d018a386e73c67b27c12c7d7e1.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852DXTS036460</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>ac83fb86fb7054889b887c87d61aac57</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -1267,78 +1339,6 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D4TS069289</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>987c0e33528a3eef483986bc497d3b99</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
-		<Price>4904990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>850000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/3c437390bf52789bfa951c39fe56fbcf.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/75c2b8ec56501cef8b25d7eca15d49b7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/40b8b0f716c69836acd9b341871bce63.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/2ceb149f0a51c948a7abe2a4e30beada.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/e271c2cc8fe5dee77ea614f87f67c20e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/c8287c3ad1a0f7f6bf34d56d27bb7d83.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/892e612f25a16bafa2870673793ced34.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/9028e39159f741bf3e16df0cbd8aa778.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/980b7b53dc41c8e2767f26623711d262.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/7e610aee28b9601284d669420a733980.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/3dcb41418fcdb1b945ee2cd906e7b77e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/1e97e4a75d3babd4c4ab196500389052.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/f6e5258a0b9af8d81162d43bfb2ee27e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/3f813164aa7225ea9c6c2666740ab20f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/a43aabb09497a4bf8719d9e8206852c4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/cf87a5abfbe5eb14daea1f9e0f085710.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/4c6211e63846f10a78bb6018f08b3cd2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/9270d2c246a1d77e0d3597bfcc6c2cc7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/87cdbbc73879fea6ba87fc6c0d5614b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852DXTS036460/e08b02d018a386e73c67b27c12c7d7e1.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>18491657</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852DXTS036460</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
