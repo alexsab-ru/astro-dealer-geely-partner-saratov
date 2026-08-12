@@ -1,5 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
+		<Id>71ae78e950694de8b28112ac89490c04</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИЕ УСЛОВИЯ ПOKУПKИ АВТОМОБИЛЯ GЕELY❗❗❗❗
+Официaльный дилeр GEELY - Пapтнеp-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Флагмaн
+
+ Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
+
+ГАРАHТИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдежноcть, провeренная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
+Без кредита цена на новый автомобиль увеличится на 700 т.р.
+При оплате наличными цена нового автомобиля составит 3 970 990 р. 
+
+Купить Gееly в Саратове , Купить Жили в Саратове , Купить Джили в Саратове
+Возможен торг.</Description>
+		<Price>4119990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>900000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>18791860</ModificationId>
+		<ComplectationId>18791861</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S12TB080031</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>992cd34258ee79dee3e0d53eb8de6561</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
