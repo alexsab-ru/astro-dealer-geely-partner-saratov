@@ -19,6 +19,12 @@
   },
   {
     "brand": "Geely",
+    "model": "EX5 Гибрид",
+    "price": 3579990,
+    "benefit": 250000
+  },
+  {
+    "brand": "Geely",
     "model": "Monjaro",
     "price": 4104990,
     "benefit": 850000
