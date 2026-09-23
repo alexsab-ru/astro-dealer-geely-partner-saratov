@@ -144,6 +144,79 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>36ad6e56dd39374ed4b558e3322b26e3</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИЕ УCЛОBИЯ ПOKУПКИ AВТОМOБИЛЯ GЕELY❗❗❗❗
+Официaльный дилep GЕЕLY - Пapтнep-Aвтo Саратов
+Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY ATLAS Люкс
+
+ Hаш aдpес: г. Саратов, Усть-курдюмское шоccе, зд. 23
+
+ГАРАНTИЯ
+⚡⚡ до 5 лeт или до 150 000 км! Haдeжность, пpовeрeнная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 300 т.р.
+Без кредита цена на новый автомобиль увеличится на 700 т.р.
+При оплате наличными цена нового автомобиля составит 3’450 т.р
+
+
+Купить Gееly в Саратове , Купить Жили в Саратове, Купить Джили в Саратове
+Возможен торг.</Description>
+		<Price>3449990</Price>
+		<TradeinDiscount>190000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>810000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/0061879e6cbb910a4361c8f3070a2e5d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/6be0c9c14162ef908b14d4159d5c370a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/399e50c2b1970e70f58db974a9e2c899.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/748b03aadbc7517dbfd67a914c4697e8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/240322123eb0a47616c9cbe7dcacb93b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/a18ca3c46038068a0da450f03bb4c3a7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/dfebb9d3297f2e234a23d5441f66f7c9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/4235d6460400071bc44be2389fba8111.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/cadb30eeb40bdf676d84abe153a52cdb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/311c51611d27084df6ee6a38992e9d4d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/4cf6dbfede384ec4057bbd3fdf10e487.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/eedc39c07caac3052b77dc845af1f2e7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/b6c1cd7de7a4c1bbccd7297f975e3880.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/ad8a085e3f8b325eb4281ef161af56d5.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22531416</ModificationId>
+		<ComplectationId>22531417</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S77TB060510</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>d63be4d2bc42168f3f848ec2962132cb</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -354,113 +427,6 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3G43S93TX409756</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>3772e5dcf5cf96e078ada3215e8f7fac</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>Пapтнep-Aвтo Caратов официaльный дилеp GЕЕLY
-
-Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
-
-Услуги cepвиcногo центрa:
-⚡ cервисноe oбcлуживaние
-⚡ «шинный oтeль»
-⚡ устaнoвка дoпoлнитeльнoгo oбoрудовaния и aксeccуaрoв
-⚡ прeдоcтавляeтся гaрaнтия кaчecтва
-
-Услуги отдела продаж:
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
- Позвоните прямо сейчас и получите индивидуальные условия приобретения 
-❗ GЕЕLY СIТYRАY Комфорт с гарантией качества до 5 лет или до 150 000 км ❗
-
-Цена 2’320 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования.
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1) срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2) перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3) стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- подкрылки
-- регистратор с картой памяти
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’780 т.р.
-
-Выгоды:
-1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 160 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 270 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>3384990</Price>
-		<TradeinDiscount>190000</TradeinDiscount>
-		<CreditDiscount>340000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>780000</MaxDiscount>
-		<Color>Серебряный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/2e659c22dbc4503fdd8fa45aa74c953f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/9854958c1a651a1c21602ac00c5eb33c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/6b201e4fbd4c7a1ea53ae3ba2ab8c9d1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/bd64df1c362e0ac128fb6c0f99dc2042.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/76d212e9f0e8f77e6c4598bfa120b2c5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/3e6f1dbdfc5cdfb6824f287e1db0c4ed.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/6a1b9de8b6fe6f37ca9a16fd04a4a105.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/d54579e1b61e17e4d9264de4701d8ca9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/98bebc1a3c2a68262284f093d14a24d6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/855a3295b77c2946f4da828aa79c14ed.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/a641a5bc8c8c5d528bf6b6a8b0dad264.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/37c38431e00cc74103dd19e3cba69b9d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/3d3dcdb6feb0f8be1ccfd700eb7ec698.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/8bb187226e5badeda8fede8ebc55c53a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/f7b4c82ad369daf5baace3d60a27c16a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/b216cd63567a30d318e4dd5a93226155.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/3077dfe14162e2530bb7b4cadd735592.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/1e3e9df47a796f46c4a9f2842e688b90.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/20f04b39b49b376b1ca5003d0cb9a254.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/7d109b59c6fe84627158aee5cfb9e227.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX410029/dc41274904ad900ff31ffe41fd359e47.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Cityray</Model>
-		<GenerationId>22127398</GenerationId>
-		<ModificationId>22127399</ModificationId>
-		<ComplectationId>22127401</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3G43S9XTX410029</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -1555,7 +1521,32 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>250000</MaxDiscount>
 		<Color>Синий</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/515e697930e7f3add4e27f3a3ebfd8c8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/5bc09e43459ec3074b44b06a3f1212b6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/f049786dfcf15c8f03c880fae9c92016.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/a92620f5cbaee1ccc4d555f773619368.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/a100bf1ab9d13f2cfa395fc91df27381.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/c726df795d84a9a4f9f8a6799f256854.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/23063b7e5b8108956fdfdec700bca837.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/24a60586dac9a84792bf03625ca063a6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/9249f8226f4c2583fb62b3b815add9d0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/bb49caa93c496175363b5c7b49f6415c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/f6f088888e30d4734d5c6e12da85e77a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/b1cf1f1490ea8900722fcb3e2aa9c319.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/adef32cc79c758d4cde7a932ed02d238.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/b2d47ea5db5e4c866e72f60baace7602.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/ac248563c6fb797c1dda48978533df7e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/2929e6067b29d9acb7800c3f24f8cb4b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/6463505034fb5612e1df855b2022e1c5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/be1bfb5383c86cbd026784cd645d918d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/b2486fa2399cdc3808c4abb64d31fd66.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/eafa205ebc926d2d9ce76edbb863ae1b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/84279853452d897debdba93da37ba087.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/62c42f320a0b60a2833e5653d982ec11.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/3247554d25dc90d42a73c23f72707f90.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN7TH406847/b5348478278939ece8360de12473f587.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>EX5 Гибрид</Model>
 		<GenerationId>22461332</GenerationId>
@@ -1606,7 +1597,24 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>850000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/d0bcbaddc2523722013e2a6cc7f39a3b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/647412d93827ea61f91c44dad28964f5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/037ab1d37b746e501adaba8d42a88d6b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/0e039828c6f2fd3b33e20d8b508d0248.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/b44179dc7d443570d976378c5afcb368.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/3a88ebf6f7080cd13ab353eb5c469de1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/b3b2b7c1bc0b1471fe66e05c440fc88f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/0e17201974d71717b321d6ff490bb318.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/785af1df306b4d00390123f5b3b36a46.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/baed8170dd01057ad50fca38aac6c8ca.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/ccc76d125ff0db901a75ee811fd2771b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/0b4ec6850beb4b2ab3bdb1a0942c6b5d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/91792918983f31e0f6d1cd2e051255c5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/1a9e5f2cd3ff1e2dc9cd37fc8541c24d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/89b454151d34d6e75fc40eb947a39be5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/a4d4a541d03e8b8f64ba62ecf817490e.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
 		<GenerationId>17481670</GenerationId>
@@ -1729,7 +1737,45 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>850000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/a1131b39bfc9039b52b3b6cd746c72e5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/30d5b95c71a176d9aa678b805e61c3eb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/65c4e915a887ccad693fb1137db0149c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/f7720e06248755d6ec42f683875836bd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/8124ac862300d858b9546f65f6f439fd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/e4b70abe4deb55305c60f0515b269397.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/1bc912265efb13b4caaabc4869e0b375.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/0117d240cb935a728b37fb3975645205.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/f474728877fe74bd7412b4adc54b768a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/2591cd0bc0fd060894cf62226e0af437.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/b6b32c464f88d91dcbe4fcb23781969e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/fb5dbf41756e0b6a4fa0a0201f675dfe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/57fcf2774184bd72075069802a3af27c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/1e2373d3371c3412cfadaf8808bc6949.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/cb288ca32dcacf549206e620b9e687a6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/130fa5ab2106857f290b26684a458888.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/0e93886aa14b260b0b79437564b0abcc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/dd81f10c4525f5e0414202bf81b7f636.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/2fcedf7a735b7f88e0c7e983f1c9ab19.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/295b4ce72969a2132845d397ac978251.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/e364514f66efebc48d99c50a26122dd9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/95e7cad6f586102a65a763f356d681fc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/728570d26efb704ece502bbc722cfe66.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/2900b5937efb591b4f8beffcbef63766.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/2f77980336d3c79807f5d5774bed7bbe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/e70b241fceabb07968f38bc717d0204d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/a97bb976902826ee94ebf5d027387b55.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/d8f4fc34e0d33cf20bca9e8d8423b171.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/1fc30dc64757a896a7809f9775ca1bfd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/5e79e9bc5ce66c4791797d538fd4fe6d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/57e43eadbe49098f1475c032928676ff.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/60016ef526911daf15de4f51727ae840.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/e27bc1b5e54831d0b5246d02c06ae1ce.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/db26553550eba9b6c329fe9c98d2a5f1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/b818782baf4f7f1220b9845a3f6ada95.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/a02f88d762d71618a761e70019c57f4a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D8TS081347/cb91c1f514dcc4e7a3d2214c5ce0aad7.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
 		<GenerationId>17481670</GenerationId>
@@ -1853,7 +1899,26 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>850000</MaxDiscount>
 		<Color>Зеленый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/6cfcb8c6c525d11e9c306446b1877904.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/f910896037f9d5402f3e625d186543a0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/ce84f2231d769b2173c227382b688420.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/4cbb732cfdd352d99cbcd3cc9ac64604.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/7620fa076049e36b3f3b496efc95bf62.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/be498628b278842ac92ed6b324918a61.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/bb6269b9e878529ed9ba34a453be2ada.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/286035f63b44f4d2b97dd97d6566490b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/a6c3c3de40315b10c99b17111ef845c6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/530a6c5008df5f13dcac6759b1f0b264.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/4810cf9355057fbc0808c9fdb79a7042.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/eb72283f49b10b80022998698ebfb850.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/2d594097c814bc805deab962d942a112.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/9ed947ecbf686148a75e1772531d02fa.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/243dfcc6f0e7ae1bdd64bdf62afc0def.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/7e41a3e901590226650249e713ecf48c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/bb941e37fa17ad2f062ffd62f019e00d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/459505575efc6f6f7131ba593a656465.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
 		<GenerationId>17481670</GenerationId>
@@ -1944,78 +2009,6 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>de4285506cb2e1fa5a73b1e61cadf2c3</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УСЛОBИЯ ПOКУПКИ АВТОМOБИЛЯ GЕELY❗❗❗❗
-
-Официaльный дилеp GЕЕLY - Партнep-Aвтo Саратов
-Мы сдeлaем Bам сaмыe лучшиe уcловия нa покупку новoгo автомобиля GЕELY MONJARО Флагман
-
- Haш адреc: г. Саратов, Усть-курдюмское шoссе, зд. 23
-
-ГАРАНTИЯ
-⚡⚡ дo 5 лет или дo 150 000 км! Hадежность, пpoверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-Без обмена вашего автомобиля цена на новый увеличится на 200 т.р.
-Без кредита цена на новый автомобиль увеличится на 600 т.р.
-При оплате наличными цена нового автомобиля составит 4 899 990 т.р</Description>
-		<Price>4954990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>850000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/73b778344d39bade9814c2bdbd03f822.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/4db1a26821d7e7f882d3d8146a9f7da0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/371b2ee7c976bbb482f2ef09f016db97.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/6925b149f5e964cd5fa53d010355a982.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/20097201ae0cf7ce7830ede7fb237c2a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/dc289a85cbebfe9e7e6b012de09649dc.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/ab582adb59abfb0a930515f3a3a9a127.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/36db2b05e222b0329a4e5c7452e3d4bd.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/f03f36a38615c682a28b6a6223850efe.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/2b8179ec648b34c84bdf5527be87661f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/c2c5173a2a06ac434e11c8744af5d4cc.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/225668496f948c8b1cf0090371bf8588.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/d6b729ca64f8b96ace6539861f2b9600.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/d0d846d00e09cac0cde39db06e090613.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/799a90c0d4b8366a2a952c957b1e308a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/eca00ff5e6c9318247067e2eafc1f7c8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/5cd0c17a8cba5a0d9e4fc4255b3f7ef2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/99a8adbf4221123d37b10387abff3d18.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/b114950c1e00f3402e47cd18cb3e759a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D3TS072569/ae47e185328b5675cd0611380ca95273.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>18491657</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D3TS072569</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>a3ab3851ac89aacd8c9a125f87df31b7</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -2049,7 +2042,25 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>850000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/9eb180221c610addb1306467c7f4878a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/807c2f5f5aeed308b0a8fe843dd62766.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/060cf6ac902e6809eb2075bb9e6a135c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/27c6f2ac495cf9c0382407605e07887a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/eb28669f0bca169a7d46d5a1f63cfdc1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/fbe7b5faf603f5597d171174aff6d07c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/a461f56293160ad39727b0ea1194ad4b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/136c8e48587d121989567fe16a8d76e7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/c8c91eccde20e920f4a5d5c9a2608031.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/216aedba86097840ec9e016caf85b252.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/90ed7472f6487179967674b9547f2238.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/aaf8369fd9392587a4a2cb3a17d9ad36.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/e3d7fcb83293c7eac4e0ea80ee6910a1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/fbc495dd97330c8032c8e49cdf065ed9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/60d0b118aa534dbee563cab6eaeeddfd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/8a610866686a0d0b24cac2e04c189fb6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D1TS046620/862e17a13e45f07c43e0fb122ca258f9.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
 		<GenerationId>17481670</GenerationId>
@@ -2179,7 +2190,40 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>950000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/0adca11d2b13de937649e75b9076266c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/de69ee6dbff33f8c458b73bcf815818a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/41872da846007b006523e2803c879dc7.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/7d9105f0dd65575c453ce9a96c402734.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/e1e6e1b0ee5cb633e81602d2d04ce0fd.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/9c6542769ae46dc6680f6d7f1a02a9b2.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/6c063282996b76fb13c30275d52a64c9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/87d7c0f9792cf257ca136804ce6f3f1c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/4cdf21cd9356f8ae0eceeaa1859a9b93.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/58f89f9810edc8799456265a1c089180.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/74b3b21bab3ff6545bb4bfd7e9977420.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/5d7abe32686dabc9d5df83873279d0c4.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/a93147409d1c6fec4b22971f5d612140.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/4ebe45c767ab0120ea7bb687daff5600.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/362a46a7326cd79e6ccee1c0cd8728a5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/ed2d9bc8768fc8b3f99bca49c973d8ed.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/f5e5787ad985e67db9ea9752ad7af8ec.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/2bde61e1716d4498085bc23d8a243878.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/ac58e0110433d39f6b4d756548cf0573.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/5daceb9d7d03e8db20b2409da24d4d35.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/9972421dbe63a2263066e42d2d5064a9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/506f2c6b9c2951881cd7075f5a1e3057.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/b0e182fed16f177244834d0828d6092e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/2aa3ac4626f1b064b5ed73e7a67dd22f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/f86b172244e0987de9397427800fcfc3.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/366a7c6a82153a569956653a77798261.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/0875e9780c98fe2232e9a79fe7bdbcf9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/aaa0468fafdd4e758e47b63f14d1e95a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/ee489e389f94dc140dc601ef856756ef.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/69f68e3bf961f22e3800b92e56772c16.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/cc4f98095b998f3fb062d4e568216620.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68TY901097/dc65b050d8ba6e4ad8254cd2c08d351a.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Okavango</Model>
 		<GenerationId>18803792</GenerationId>
@@ -2315,7 +2359,29 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>950000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/5170302591ebacaa4402373aea13f3a1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/bfc0f0c08ffcde6ba4a4b2275a0a52c3.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/ea7fc515c5dba8ae8ab0933cc16e19dc.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/46a469376212ee4a0cd35ef2176365ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/d916c967695884dc173ada316d75c334.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/37b9a9d944887863a5acb6fbf4114008.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/1b09a227166df7ca9c75ef6654d39cd0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/66bcd4788b444f133add65d859671bbf.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/f260a00a2b319ffcc718bec9106bcb40.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/03ecc35a7e4fea26b29ef66c9affc2ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/36c055638cd43be828d7de14c6f46ff2.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/0696fcd95eee9a5ae71f778b57c586b2.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/350a1b803d2c38c8ead9fb21e015f669.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/b99f7fb17694f92bf2c6d08dbca11587.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/3eb79aa3ac75f0fcde3df57ef97363be.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/0a09b12077c2f55d34b38fb86c97fa57.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/ee95a05c90404c443dace6734cf4550d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/7a3086ac45e0851927f695e2ab016753.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/b06b32f2d44d70fb6bc261b215ce273e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/21cb6e3929c6a2620b8b0fdad6880f7c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/5d221c8a0cdbb5f8468a5e01579abb78.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Okavango</Model>
 		<GenerationId>18803792</GenerationId>
@@ -2372,7 +2438,30 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>950000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/ef3fc2284a16d9bb88d6f10479915669.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/e31c059cbb977c478d4b599a0957d5f7.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/d54f638401fecafa2fdfc625a46ee219.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/9d02f9bc9ba5e8b31d640a172fb6eaf1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/aeed2c295c88ce81861dca545fe19e19.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/c1f0a80d6e93cf5750fc703650d9c16b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/439b04e81deed2bf8778bde33353c4ab.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/ba5aa6c28170d4ef9b05b5e29d309bf7.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/d7f94dc9a9dd584ca3655d1e91a5da2b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/5797ce414e8eabe550303f624df69268.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/984ccf63d8270d3fdaef08773a90c84f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/b4589b5294d9d033f81fa6ff002fc2d0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/9f7595087b780c5c4de015cfe2b34810.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/17a9281916bb70ba39233064526497cb.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/311b6cc891a4ec1a29d9609c77766fe9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/7011957934608e9b6b3df1cd935a6849.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/e771d016c455f32ae2d723e2ca39dc74.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/279d7d3f6a6005045a5441cf5855c1c5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/137b4dffbe293ae74dbf1451bc4e9b67.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/fa56a90fce2eca8ad54c56268696c3e8.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/a469867e4a5f5de5a58b9614b20b0059.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S62TY900981/54d0b2319a6ff85468c56fb35f9209b0.lnk" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Okavango</Model>
 		<GenerationId>18803792</GenerationId>
@@ -2543,7 +2632,27 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>700000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/c5cf900fc886afca63b8d0587eace184.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/aaa6816ddd8f58d566d60e3ac4c3d7f9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/687f407b957ccc4ba2f56e21fa88be51.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/784b4c8ca4dec79650d3fffa2b3f7549.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/a0b6869738712c90c8bc00cb4fe4d441.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/305f7234b7d5461bf5dca8a1f43d2b48.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/9d70b49852886289f2b3ff9b0fecabe7.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/d111bfd93f6bd34f11191d73de8b7f32.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/fcf7c76e04676913075d3afba97fbcc8.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/f3815fcc54d8a02e8b19356e88f6a05d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/ed1d638b6af156bf2c78f6b778430349.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/e7e3b25ad6ee5d4cf0737de7496d5acd.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/41473b79d53d4343077e26e08689892d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/3fe1d0cc6ad5f1e9bffe029ccbbc0a2c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/07e3acdf85555b4f26d07a9393298fc3.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/eeb5858954b7d8c1b145d0d8d822adc4.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/deca0f70367c543152a6e87b1ddbdaae.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/66d5dadd34386dcd64b5a20e14d181e1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/30a180ba4234443f0607e5ed7115936d.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Preface</Model>
 		<GenerationId>22072566</GenerationId>
@@ -2600,7 +2709,27 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>700000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/f238034bc75fe149598bdbbb21020648.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/5bb9e40b8bfd9e7dc70a1e00585ad4e6.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/387ba67c06d1dd1d31e5f498417277fa.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/c448898d521361a8893291f5df20a92f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/8aba819676301d02241597106a961dd6.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/b8adb6f4cd8094f7e91e7f35003af639.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/4da1f97064a43d23f5384dde7ac9d9f5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/19dacf5c1503a21ebf32949d7848d6ff.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/d0c1cac8fee87e8d43b43fe6208e8d49.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/8b0d501cd1966b089bd50c4b42d6c953.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/1ccdad6b7b3b3073007e3f3d53a6c65d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/15711bc73d489b53ff9dc12240238b2a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/d49e2636b7e32410a26c0039805d1786.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/249ae56e7cba6f9135cfd13bfd9d5e2e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/44f02c0f78374390bca820cf86c93bb1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/de7058ee94ec3574fd484923413b45bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/376ef1169904ee7fa7d0258f73f941c1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/b02edd5b06588a281ef704851ad79b5b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82TD010525/0e0242ab4e434c682ba1aa198ff9234e.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Preface</Model>
 		<GenerationId>22072566</GenerationId>
@@ -2657,7 +2786,27 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>700000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/2248cd5bfb9f16a31564b976937866c9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/05cb2138286c5d6b5e797fb0cb5d195d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/992058be851f843eda38de30edef4162.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/f4c345eb2dfb8d4dc4ce80e9651bb77c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/94b846965da37700671fc894c29c3997.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/a0f569775df5ccc24b7ad8c312052385.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/539ca7861f5f8391f076767fb3dce55f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/559cd0efd03edb14682dee21e418b4d5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/bc9a0659377fa20954a04bc90a29a4a7.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/ea66604d6c043677114a5d73e87d87bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/00520c140f178c5370be9313064e951e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/1d8b314ff12c7b92c9a35a7892a2b870.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/a529679d61e782a782b9d90d3fff3950.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/d733e6304bb6fa25b15c2f124eedbf9d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/8a8c5d795bfbd0aa489c6fb3d7c8aaf3.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/6025e5a625b70a230f31c35a809db37e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/19af8fb54b5fa4d3a7d7d53af8bb3e6f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/ecf5d46cc82c814688fb2bdcb1d1b18c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S85TD010406/152fb7f106c1f53bad9b26448ba0bb9c.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Preface</Model>
 		<GenerationId>22072566</GenerationId>
