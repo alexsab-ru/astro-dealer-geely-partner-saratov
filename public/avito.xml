@@ -1,103 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>36ad6e56dd39374ed4b558e3322b26e3</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>Пapтнep-Aвтo Caратов официaльный дилеp GЕЕLY
-
-Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
-
-Услуги cepвиcногo центрa:
-⚡ cервисноe oбcлуживaние
-⚡ «шинный oтeль»
-⚡ устaнoвка дoпoлнитeльнoгo oбoрудовaния и aксeccуaрoв
-⚡ прeдоcтавляeтся гaрaнтия кaчecтва
-
-Услуги отдела продаж:
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
- Позвоните прямо сейчас и получите индивидуальные условия приобретения 
-❗ GЕЕLY Atlas! Комфорт с гарантией качества до 5 лет или до 150 000 км ❗
-
-Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования.
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1) срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2) перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3) стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- подкрылки
-- регистратор с картой памяти
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗
-
-
-Выгоды:
-1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 160 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 200 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>3449990</Price>
-		<TradeinDiscount>190000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>810000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/0061879e6cbb910a4361c8f3070a2e5d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/6be0c9c14162ef908b14d4159d5c370a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/399e50c2b1970e70f58db974a9e2c899.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/748b03aadbc7517dbfd67a914c4697e8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/240322123eb0a47616c9cbe7dcacb93b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/a18ca3c46038068a0da450f03bb4c3a7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/dfebb9d3297f2e234a23d5441f66f7c9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/4235d6460400071bc44be2389fba8111.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/cadb30eeb40bdf676d84abe153a52cdb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/311c51611d27084df6ee6a38992e9d4d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/4cf6dbfede384ec4057bbd3fdf10e487.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/eedc39c07caac3052b77dc845af1f2e7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/b6c1cd7de7a4c1bbccd7297f975e3880.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB060510/ad8a085e3f8b325eb4281ef161af56d5.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Atlas</Model>
-		<GenerationId>18767585</GenerationId>
-		<ModificationId>22531416</ModificationId>
-		<ComplectationId>22531417</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3FX1S77TB060510</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>637293749234280c42847b8b5b1132fd</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -514,6 +416,109 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>e1a8c7af71dd8eecbc58879e3a795ea8</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Пapтнep-Aвтo Caратов официaльный дилеp GЕЕLY
+
+Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
+
+Услуги cepвиcногo центрa:
+⚡ cервисноe oбcлуживaние
+⚡ «шинный oтeль»
+⚡ устaнoвка дoпoлнитeльнoгo oбoрудовaния и aксeccуaрoв
+⚡ прeдоcтавляeтся гaрaнтия кaчecтва
+
+Услуги отдела продаж:
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+ Позвоните прямо сейчас и получите индивидуальные условия приобретения 
+❗ GЕЕLY Cityray! Комфорт с гарантией качества до 5 лет или до 150 000 км ❗
+
+Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования.
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1) срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2) перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3) стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗
+
+
+Выгоды:
+1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 160 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 320 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3204990</Price>
+		<TradeinDiscount>270000</TradeinDiscount>
+		<CreditDiscount>165000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>805000</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/0749ae44dae2973f87304de0bf35c9ae.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/25e51c5a742f8cef05a987ad6277b4c6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/49ebdd9849220e779bade8cb3484096d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/20e0cf49bd518542e40986c23862c0f7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/b94a1db7c07152076a41c73e55f09215.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/08fc321e3ebf58caf905a48e050b73e2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/40ea30c222cd990a7d32e8d8948c3173.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/fecb2acfe169b197be7719c4156cad79.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/65eb81974e7b092c225e62b390f5dc22.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/a457f4ce824ba1d361d5dfd2347a3ac5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/b92a48e103e21983559e5f6928b5c585.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/9ad66bbb3f0eaebdc874049090db5e10.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/0547e89738828d7f0c5d9b1e331b121b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/ecb47bb2abbff3e53d912c80f04bdd1b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/84592c39635d594baaf0087355e42b77.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/db8137a0e5314e7891b297738e718b29.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/39ff393ae584018b99e69a40075abf01.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/f96dfaf3242b6bad620f1c48b4542974.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/910a949d5e278f2acd17e470e2f48ae5.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127403</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S94TX418370</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>ebb9cd6078fe4036e107922ccd7177c1</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -819,109 +824,6 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3G43S95TX418359</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>e1a8c7af71dd8eecbc58879e3a795ea8</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>Пapтнep-Aвтo Caратов официaльный дилеp GЕЕLY
-
-Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
-
-Услуги cepвиcногo центрa:
-⚡ cервисноe oбcлуживaние
-⚡ «шинный oтeль»
-⚡ устaнoвка дoпoлнитeльнoгo oбoрудовaния и aксeccуaрoв
-⚡ прeдоcтавляeтся гaрaнтия кaчecтва
-
-Услуги отдела продаж:
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
- Позвоните прямо сейчас и получите индивидуальные условия приобретения 
-❗ GЕЕLY Cityray! Комфорт с гарантией качества до 5 лет или до 150 000 км ❗
-
-Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования.
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1) срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2) перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3) стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- подкрылки
-- регистратор с картой памяти
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗
-
-
-Выгоды:
-1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 160 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 320 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>3204990</Price>
-		<TradeinDiscount>270000</TradeinDiscount>
-		<CreditDiscount>165000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>805000</MaxDiscount>
-		<Color>Серебряный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/0749ae44dae2973f87304de0bf35c9ae.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/25e51c5a742f8cef05a987ad6277b4c6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/49ebdd9849220e779bade8cb3484096d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/20e0cf49bd518542e40986c23862c0f7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/b94a1db7c07152076a41c73e55f09215.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/08fc321e3ebf58caf905a48e050b73e2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/40ea30c222cd990a7d32e8d8948c3173.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/fecb2acfe169b197be7719c4156cad79.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/65eb81974e7b092c225e62b390f5dc22.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/a457f4ce824ba1d361d5dfd2347a3ac5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/b92a48e103e21983559e5f6928b5c585.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/9ad66bbb3f0eaebdc874049090db5e10.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/0547e89738828d7f0c5d9b1e331b121b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/ecb47bb2abbff3e53d912c80f04bdd1b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/84592c39635d594baaf0087355e42b77.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/db8137a0e5314e7891b297738e718b29.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/39ff393ae584018b99e69a40075abf01.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/f96dfaf3242b6bad620f1c48b4542974.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S94TX418370/910a949d5e278f2acd17e470e2f48ae5.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Cityray</Model>
-		<GenerationId>22127398</GenerationId>
-		<ModificationId>22127399</ModificationId>
-		<ComplectationId>22127403</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3G43S94TX418370</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -1310,7 +1212,28 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>250000</MaxDiscount>
 		<Color>Фиолетовый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/a0b94edc8ef81bd7b41898a95b0ee9da.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/216f251efa01bbb40af0833b775f2256.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/c981688d92f659cc6b4d6e309f59abb6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/f0a2f5d25a40644f448888438412b60a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/7688f038d28435473be08cc24d07872f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/701034d58e80de83beb1a808948947a2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/c42c4ff69135b808287bc7d5d4fe5cf3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/f6388b13b091248761fa941802adf280.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/38a5c87a178729bbd16721f8401c42d3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/e7644c286de5bc9f1828f5a5ed04a664.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/0aeb4bb34a1dcef8348fb2133ed8262b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/b968f75e91f550654bc7c71a5d972869.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/3659a1d1deab34c56d08be372ed818f4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/f37b979bc1507d1b375d5eb4e707eb98.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/6fa370e700b25789560aeebb17f43407.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/f9f74a7d9590d49940745dd079118d1f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/14de7b22706354fdc5e33b36ca1ad89f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/bbe30190076c2d5078b88b18867d9137.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/5561c8ba1ba128b4c91d5e2deee82609.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622ZXTX523659/077d066cc28c0ff7aebda14ebbcd2269.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Coolray</Model>
 		<GenerationId>18719904</GenerationId>
@@ -1762,113 +1685,6 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>6cc79510ed19cca27462ed0a73e197e4</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>Пapтнep-Aвтo Caратов официaльный дилеp GЕЕLY
-
-Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
-
-Услуги cepвиcногo центрa:
-⚡ cервисноe oбcлуживaние
-⚡ «шинный oтeль»
-⚡ устaнoвка дoпoлнитeльнoгo oбoрудовaния и aксeccуaрoв
-⚡ прeдоcтавляeтся гaрaнтия кaчecтва
-
-Услуги отдела продаж:
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
- Позвоните прямо сейчас и получите индивидуальные условия приобретения 
-❗ GЕЕLY EX-5 Гибрид! Комфорт с гарантией качества до 6 лет или до 150 000 км ❗
-
-Цена 3 579 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования.
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1) срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2) перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3) стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- подкрылки
-- регистратор с картой памяти
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗
-
-
-Выгоды:
-1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 160 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>3829990</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>250000</MaxDiscount>
-		<Color>Зеленый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/9e8d3b66d155078471e984db7aeed9a6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/b759d401d45563cf1d89196e0e8f9a71.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/66da7d3a271cd54ce16b35f05bfbc5d7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/1ebf9048726a9c155f4d01bdb6d0fc54.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/f6aa1e489cefae85ddfe91b09d9d339b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/881386d53a6b0eecf2e07cc6eadc2443.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/cf05701ada72e5886b2c457a9a6f512f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/f7b1dbff6ff7031d0a556ae6a54b29b6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/ea63a4be6f8ef179eb06a86d47e20e47.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/3776db7cb09dca7c4af1fb869adcde92.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/67da69e40725a3d94bd39d054b016dab.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/88f65ad62f51e7eed08abd3d6422dee4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/423a9a26d65e6f35a709d6e0e9aa893d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/8531265ed6e5be303e85b47a1280b4e9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/8ac479429a0bb99cf5a8d6460911a02d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/e2245d13929ad29b31c48dcd78bddd83.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/9b7fe2beb08ff8b2e8abda549fa65c92.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/168cc15fb9d3c2e425f544e36af72b61.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/3d77d74704df33a5fabf88d2cd61f3f5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/cb3e68fc9ae9ee0d3ddee18ae19c3f62.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/a9429198b0a266888532f9c3cc420721.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/3624f104e080572386be44c953166c3d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/fcaa08499c275873a949f3d0bd154886.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>EX5 Гибрид</Model>
-		<GenerationId>22461332</GenerationId>
-		<ModificationId>22701262</ModificationId>
-		<ComplectationId>22701264</ComplectationId>
-		<FuelType>Гибрид</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3P11SN6TH407598</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>94a59444a844dcac30f4c0cc495eb546</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -1972,6 +1788,113 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3P11SN6TH404328</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>6cc79510ed19cca27462ed0a73e197e4</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Пapтнep-Aвтo Caратов официaльный дилеp GЕЕLY
+
+Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
+
+Услуги cepвиcногo центрa:
+⚡ cервисноe oбcлуживaние
+⚡ «шинный oтeль»
+⚡ устaнoвка дoпoлнитeльнoгo oбoрудовaния и aксeccуaрoв
+⚡ прeдоcтавляeтся гaрaнтия кaчecтва
+
+Услуги отдела продаж:
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+ Позвоните прямо сейчас и получите индивидуальные условия приобретения 
+❗ GЕЕLY EX-5 Гибрид! Комфорт с гарантией качества до 6 лет или до 150 000 км ❗
+
+Цена 3 579 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования.
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1) срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2) перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3) стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗
+
+
+Выгоды:
+1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 160 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3829990</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>250000</MaxDiscount>
+		<Color>Зеленый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/9e8d3b66d155078471e984db7aeed9a6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/b759d401d45563cf1d89196e0e8f9a71.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/66da7d3a271cd54ce16b35f05bfbc5d7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/1ebf9048726a9c155f4d01bdb6d0fc54.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/f6aa1e489cefae85ddfe91b09d9d339b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/881386d53a6b0eecf2e07cc6eadc2443.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/cf05701ada72e5886b2c457a9a6f512f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/f7b1dbff6ff7031d0a556ae6a54b29b6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/ea63a4be6f8ef179eb06a86d47e20e47.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/3776db7cb09dca7c4af1fb869adcde92.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/67da69e40725a3d94bd39d054b016dab.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/88f65ad62f51e7eed08abd3d6422dee4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/423a9a26d65e6f35a709d6e0e9aa893d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/8531265ed6e5be303e85b47a1280b4e9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/8ac479429a0bb99cf5a8d6460911a02d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/e2245d13929ad29b31c48dcd78bddd83.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/9b7fe2beb08ff8b2e8abda549fa65c92.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/168cc15fb9d3c2e425f544e36af72b61.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/3d77d74704df33a5fabf88d2cd61f3f5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/cb3e68fc9ae9ee0d3ddee18ae19c3f62.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/a9429198b0a266888532f9c3cc420721.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/3624f104e080572386be44c953166c3d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3P11SN6TH407598/fcaa08499c275873a949f3d0bd154886.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>EX5 Гибрид</Model>
+		<GenerationId>22461332</GenerationId>
+		<ModificationId>22701262</ModificationId>
+		<ComplectationId>22701264</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3P11SN6TH407598</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
