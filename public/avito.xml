@@ -2543,27 +2543,7 @@ Hаш адpec: г. Capaтoв, Уcть-Курдюмскоe шoсcе, зд. 23
 		<InsuranceDiscount />
 		<MaxDiscount>850000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/c5cf900fc886afca63b8d0587eace184.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/aaa6816ddd8f58d566d60e3ac4c3d7f9.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/687f407b957ccc4ba2f56e21fa88be51.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/784b4c8ca4dec79650d3fffa2b3f7549.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/a0b6869738712c90c8bc00cb4fe4d441.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/305f7234b7d5461bf5dca8a1f43d2b48.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/9d70b49852886289f2b3ff9b0fecabe7.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/d111bfd93f6bd34f11191d73de8b7f32.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/fcf7c76e04676913075d3afba97fbcc8.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/f3815fcc54d8a02e8b19356e88f6a05d.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/ed1d638b6af156bf2c78f6b778430349.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/e7e3b25ad6ee5d4cf0737de7496d5acd.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/41473b79d53d4343077e26e08689892d.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/3fe1d0cc6ad5f1e9bffe029ccbbc0a2c.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/07e3acdf85555b4f26d07a9393298fc3.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/eeb5858954b7d8c1b145d0d8d822adc4.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/deca0f70367c543152a6e87b1ddbdaae.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/66d5dadd34386dcd64b5a20e14d181e1.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/30a180ba4234443f0607e5ed7115936d.jpg" />
-		</Images>
+		<Images />
 		<Make>Geely</Make>
 		<Model>Preface</Model>
 		<GenerationId>22072566</GenerationId>
