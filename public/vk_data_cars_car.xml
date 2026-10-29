@@ -738,6 +738,54 @@
       </images>
     </car>
     <car>
+      <unique_id>LB3P11SN3TH417439</unique_id>
+      <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-green-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>EX5 Гибрид</folder_id>
+      <year>2026</year>
+      <vin>LB3P11SN3TH417439</vin>
+      <price>3829990</price>
+      <sale_price>3329990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>500000</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г., зеленый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH417439/0/full.webp?v=e08024abc998</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH417439/1/full.webp?v=bed53409b26f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH417439/2/full.webp?v=89b906c8a7f6</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH417439/3/full.webp?v=49ae93b6a395</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH417439/4/full.webp?v=bde4d6a1957c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB3P11SN3TH419336</unique_id>
+      <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-ink-black-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>EX5 Гибрид</folder_id>
+      <year>2026</year>
+      <vin>LB3P11SN3TH419336</vin>
+      <price>3829990</price>
+      <sale_price>3329990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>500000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH419336/0/full.webp?v=eced8a2e776c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH419336/1/full.webp?v=191c059c00d7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH419336/2/full.webp?v=fb7cb4b880c5</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH419336/3/full.webp?v=30c87a26d224</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN3TH419336/4/full.webp?v=07f5b147902b</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LB3P11SN6TH407598</unique_id>
       <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-green-2026/</url>
       <mark_id>Geely</mark_id>
@@ -777,6 +825,30 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN6TH407598/20/full.webp?v=8667a58fa8d0</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN6TH407598/21/full.webp?v=a5a44d76120b</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN6TH407598/22/full.webp?v=05d85d0f83c2</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB3P11SN8TH416268</unique_id>
+      <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-ink-black-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>EX5 Гибрид</folder_id>
+      <year>2026</year>
+      <vin>LB3P11SN8TH416268</vin>
+      <price>3829990</price>
+      <sale_price>3329990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>500000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH416268/0/full.webp?v=c3491889c0b3</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH416268/1/full.webp?v=a38f93cdd837</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH416268/2/full.webp?v=64ac5eeb86b2</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH416268/3/full.webp?v=e1420e161b85</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH416268/4/full.webp?v=9ea35d683e48</image>
       </images>
     </car>
   </cars>
