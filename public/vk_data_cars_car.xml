@@ -700,52 +700,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LB3G43S99TX413701</unique_id>
-      <url>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-flagship-white-2026/</url>
-      <mark_id>Geely</mark_id>
-      <folder_id>Cityray</folder_id>
-      <year>2026</year>
-      <vin>LB3G43S99TX413701</vin>
-      <price>3344990</price>
-      <sale_price>2564990</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>780000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Geely Cityray, Флагман, 1.5T DCT (147 л.с.), 2026 г., белый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/0/full.webp?v=26877326a288</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/1/full.webp?v=a89e1efc3288</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/2/full.webp?v=744f33aff22f</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/3/full.webp?v=263443fc0720</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/4/full.webp?v=ebe990b5d558</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/5/full.webp?v=d48ae1ee6582</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/6/full.webp?v=f13c4ef72453</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/7/full.webp?v=6b0cfa1b735b</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/8/full.webp?v=57de0baa2898</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/9/full.webp?v=af9c690dc565</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/10/full.webp?v=c4dba5514236</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/11/full.webp?v=57f750c9d25c</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/12/full.webp?v=024af9d9855c</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/13/full.webp?v=f9679d39476f</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/14/full.webp?v=bd8c42a5b275</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/15/full.webp?v=9b7ed7089683</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/16/full.webp?v=c13913bb2ef4</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/17/full.webp?v=0fd0d95eff82</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/18/full.webp?v=256cc66ef0cd</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/19/full.webp?v=8280769315cf</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/20/full.webp?v=4e311ce75652</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/21/full.webp?v=85172af060e6</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/22/full.webp?v=1659562ccdb7</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/23/full.webp?v=978dd7fcb98a</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/24/full.webp?v=9f1f479a0a75</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/25/full.webp?v=c103d8113163</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S99TX413701/26/full.webp?v=9894ea3f657d</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LB3G43S99TX418350</unique_id>
       <url>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-silver-metallic-2026/</url>
       <mark_id>Geely</mark_id>
