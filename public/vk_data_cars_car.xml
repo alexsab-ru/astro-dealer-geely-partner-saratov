@@ -66,6 +66,11 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/7/full.webp?v=31f74da9408b</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/8/full.webp?v=4a7c07fcfd49</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/9/full.webp?v=b51c3c47ce65</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/10/full.webp?v=a43b58fbd24e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/11/full.webp?v=05bb3792ecea</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/12/full.webp?v=6e9b187a3884</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/13/full.webp?v=9031dcc3b52b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/L6TFS1S89TD010537/14/full.webp?v=597a09c1e4bf</image>
       </images>
     </car>
     <car>
@@ -272,6 +277,11 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/7/full.webp?v=c91930464230</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/8/full.webp?v=f159f46397e8</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/9/full.webp?v=1e7af44601cc</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/10/full.webp?v=cb84c9dcd048</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/11/full.webp?v=15e661550361</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/12/full.webp?v=b22fa8d43b01</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/13/full.webp?v=2926dc357da0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB37622Z3TX526659/14/full.webp?v=38d199fe9078</image>
       </images>
     </car>
     <car>
@@ -428,6 +438,11 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/7/full.webp?v=a7166d0d7fd0</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/8/full.webp?v=99d2e5369778</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/9/full.webp?v=3c0d091e2f1b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/10/full.webp?v=62079642146f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/11/full.webp?v=6d69a96ac912</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/12/full.webp?v=0fbfd564647c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/13/full.webp?v=72b1e0bacb38</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S92TX415161/14/full.webp?v=083e0977fc0d</image>
       </images>
     </car>
     <car>
@@ -498,6 +513,11 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/7/full.webp?v=80290bde5854</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/8/full.webp?v=fb71e35f3054</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/9/full.webp?v=9b2324ffc639</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/10/full.webp?v=e23992ac58d6</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/11/full.webp?v=aacd5106dd4b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/12/full.webp?v=d9835dfc2195</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/13/full.webp?v=6e2d19c5c557</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/14/full.webp?v=943e4a359d3a</image>
       </images>
     </car>
     <car>
@@ -538,44 +558,6 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX416537/18/full.webp?v=8aa6817ae70a</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX416537/19/full.webp?v=837c1f7a546a</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX416537/20/full.webp?v=4298398eb4a3</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LB3G43S94TX418370</unique_id>
-      <url>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-silver-metallic-2026/</url>
-      <mark_id>Geely</mark_id>
-      <folder_id>Cityray</folder_id>
-      <year>2026</year>
-      <vin>LB3G43S94TX418370</vin>
-      <price>3204990</price>
-      <sale_price>2399990</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>805000</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г., серебряный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/0/full.webp?v=3561165ce31d</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/1/full.webp?v=196c0ad23d3c</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/2/full.webp?v=266976bae4b3</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/3/full.webp?v=7fee31f972bc</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/4/full.webp?v=6bbd6c836282</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/5/full.webp?v=f42ea98ba125</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/6/full.webp?v=96464ebe42af</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/7/full.webp?v=437a037a71a0</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/8/full.webp?v=390d85fdaca8</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/9/full.webp?v=2f0f641b72e2</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/10/full.webp?v=8b342fd39cbd</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/11/full.webp?v=0e2c831419cb</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/12/full.webp?v=dd34c07b1b67</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/13/full.webp?v=e9a8453d2192</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/14/full.webp?v=6bfee6552533</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/15/full.webp?v=9bd9a7c749b7</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/16/full.webp?v=74b712568ddd</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/17/full.webp?v=64c4391bc745</image>
-        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX418370/18/full.webp?v=2f169f192e2d</image>
       </images>
     </car>
     <car>
@@ -721,6 +703,11 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/7/full.webp?v=6a108ad2df61</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/8/full.webp?v=56adc41434f5</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/9/full.webp?v=7964f7ca3e86</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/10/full.webp?v=e4449cedcc88</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/11/full.webp?v=56c2cee51a44</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/12/full.webp?v=f0bcbdd0cd26</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/13/full.webp?v=3aca4da6e007</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX413664/14/full.webp?v=745b187cb342</image>
       </images>
     </car>
     <car>
@@ -750,6 +737,11 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/7/full.webp?v=077cec91b92e</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/8/full.webp?v=87a0f91ef91e</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/9/full.webp?v=5c9f056033ea</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/10/full.webp?v=6e01b8250b60</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/11/full.webp?v=2942755b6b11</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/12/full.webp?v=2a1dc59570be</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/13/full.webp?v=6a350b12097f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S97TX423580/14/full.webp?v=c5fde7640632</image>
       </images>
     </car>
     <car>
@@ -943,6 +935,11 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/7/full.webp?v=3f3c3b68737f</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/8/full.webp?v=a3e681c5a269</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/9/full.webp?v=5926a13331d5</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/10/full.webp?v=64d92a9878a4</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/11/full.webp?v=eedd2f98d934</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/12/full.webp?v=669a0fca5adf</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/13/full.webp?v=026d725b3b47</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412804/14/full.webp?v=26e7b6dae143</image>
       </images>
     </car>
     <car>
