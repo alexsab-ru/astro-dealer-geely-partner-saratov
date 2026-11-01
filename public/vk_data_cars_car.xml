@@ -47,10 +47,10 @@
       <year>2026</year>
       <vin>L6TFS1S89TD010537</vin>
       <price>3329990</price>
-      <sale_price>2479990</sale_price>
+      <sale_price>2729990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>850000</max_benefit>
+      <max_benefit>600000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Седан</body_type>
@@ -176,10 +176,10 @@
       <year>2026</year>
       <vin>LB37622Z3TX512891</vin>
       <price>2964990</price>
-      <sale_price>2364990</sale_price>
+      <sale_price>2514990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
+      <max_benefit>450000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -546,6 +546,8 @@
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/22/full.webp?v=b920284bd864</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/23/full.webp?v=642467e5854a</image>
         <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/24/full.webp?v=e7c43c130798</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/25/full.webp?v=503b55ae348f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/26/full.webp?v=e1f26bbd92a1</image>
       </images>
     </car>
     <car>
@@ -556,10 +558,10 @@
       <year>2026</year>
       <vin>LB3G43S94TX416537</vin>
       <price>3204990</price>
-      <sale_price>2399990</sale_price>
+      <sale_price>2564990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>805000</max_benefit>
+      <max_benefit>640000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -596,10 +598,10 @@
       <year>2026</year>
       <vin>LB3G43S94TX422211</vin>
       <price>3204990</price>
-      <sale_price>2399990</sale_price>
+      <sale_price>2564990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>805000</max_benefit>
+      <max_benefit>640000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -636,10 +638,10 @@
       <year>2026</year>
       <vin>LB3G43S95TX418359</vin>
       <price>3204990</price>
-      <sale_price>2399990</sale_price>
+      <sale_price>2564990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>805000</max_benefit>
+      <max_benefit>640000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -674,10 +676,10 @@
       <year>2026</year>
       <vin>LB3G43S95TX418409</vin>
       <price>3204990</price>
-      <sale_price>2399990</sale_price>
+      <sale_price>2564990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>805000</max_benefit>
+      <max_benefit>640000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -793,10 +795,10 @@
       <year>2026</year>
       <vin>LB3G43S99TX418350</vin>
       <price>3204990</price>
-      <sale_price>2399990</sale_price>
+      <sale_price>2564990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>805000</max_benefit>
+      <max_benefit>640000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -874,10 +876,10 @@
       <year>2026</year>
       <vin>LB3P11SN6TH407598</vin>
       <price>3829990</price>
-      <sale_price>3329990</sale_price>
+      <sale_price>3579990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>500000</max_benefit>
+      <max_benefit>250000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
