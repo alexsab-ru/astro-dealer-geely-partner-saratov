@@ -290,6 +290,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LB3G43S94TX421558</id>
+    <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-flagship-white-2026/</link>
+    <brand>Geely</brand>
+    <model>Cityray</model>
+    <year>2026</year>
+    <title>Geely Cityray Флагман 2026</title>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX414061/0/full.webp?v=46163f069cac</image_link>
+    <price>3344990 RUB</price>
+    <sale_price>2564990 RUB</sale_price>
+    <min_price>2564990 RUB</min_price>
+    <max_price>3344990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Cityray, Флагман, 1.5T DCT (147 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3G43S94TX421558</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LB3G43S94TX422211</id>
     <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-white-2026/</link>
     <brand>Geely</brand>
@@ -338,6 +362,54 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LB3G43S95TX421407</id>
+    <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-silver-metallic-2026/</link>
+    <brand>Geely</brand>
+    <model>Cityray</model>
+    <year>2026</year>
+    <title>Geely Cityray Люкс 2026</title>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S95TX418409/0/full.webp?v=c72794db05a5</image_link>
+    <price>3204990 RUB</price>
+    <sale_price>2399990 RUB</sale_price>
+    <min_price>2399990 RUB</min_price>
+    <max_price>3204990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3G43S95TX421407</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB3G43S95TX422931</id>
+    <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-white-2026/</link>
+    <brand>Geely</brand>
+    <model>Cityray</model>
+    <year>2026</year>
+    <title>Geely Cityray Люкс 2026</title>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX422211/0/full.webp?v=21ccdae96f0b</image_link>
+    <price>3204990 RUB</price>
+    <sale_price>2399990 RUB</sale_price>
+    <min_price>2399990 RUB</min_price>
+    <max_price>3204990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3G43S95TX422931</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LB3G43S97TX416239</id>
     <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-flagship-gray-2026/</link>
     <brand>Geely</brand>
@@ -358,6 +430,54 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LB3G43S97TX416239</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB3G43S97TX422932</id>
+    <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-white-2026/</link>
+    <brand>Geely</brand>
+    <model>Cityray</model>
+    <year>2026</year>
+    <title>Geely Cityray Люкс 2026</title>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S94TX422211/0/full.webp?v=21ccdae96f0b</image_link>
+    <price>3204990 RUB</price>
+    <sale_price>2399990 RUB</sale_price>
+    <min_price>2399990 RUB</min_price>
+    <max_price>3204990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3G43S97TX422932</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB3G43S98TX422082</id>
+    <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-silver-metallic-2026/</link>
+    <brand>Geely</brand>
+    <model>Cityray</model>
+    <year>2026</year>
+    <title>Geely Cityray Люкс 2026</title>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S95TX418409/0/full.webp?v=c72794db05a5</image_link>
+    <price>3204990 RUB</price>
+    <sale_price>2399990 RUB</sale_price>
+    <min_price>2399990 RUB</min_price>
+    <max_price>3204990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3G43S98TX422082</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
