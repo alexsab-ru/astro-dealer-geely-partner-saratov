@@ -8,7 +8,7 @@
     <model>Preface</model>
     <year>2026</year>
     <title>Geely Preface Luxury 2026</title>
-    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/L6TFS1S82TD010525/0/full.webp?v=76de41a4a13c</image_link>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/L6TFS1S82TD010525/0/full.webp?v=bf1d3d5708fc</image_link>
     <price>3329990 RUB</price>
     <sale_price>2479990 RUB</sale_price>
     <min_price>2479990 RUB</min_price>
@@ -338,54 +338,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LB3G43S95TX418409</id>
-    <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-silver-metallic-2026/</link>
-    <brand>Geely</brand>
-    <model>Cityray</model>
-    <year>2026</year>
-    <title>Geely Cityray Люкс 2026</title>
-    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S95TX418409/0/full.webp?v=c72794db05a5</image_link>
-    <price>3204990 RUB</price>
-    <sale_price>2399990 RUB</sale_price>
-    <min_price>2399990 RUB</min_price>
-    <max_price>3204990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Серебряный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LB3G43S95TX418409</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LB3G43S95TX421407</id>
-    <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-silver-metallic-2026/</link>
-    <brand>Geely</brand>
-    <model>Cityray</model>
-    <year>2026</year>
-    <title>Geely Cityray Люкс 2026</title>
-    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S95TX418409/0/full.webp?v=c72794db05a5</image_link>
-    <price>3204990 RUB</price>
-    <sale_price>2399990 RUB</sale_price>
-    <min_price>2399990 RUB</min_price>
-    <max_price>3204990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г.</description>
-    <exterior_color>Серебряный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LB3G43S95TX421407</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LB3G43S95TX422931</id>
     <link>https://geely-partner-saratov.ru/cars/geely-cityray-15t-dct-147-hp-luxury-white-2026/</link>
     <brand>Geely</brand>
@@ -464,7 +416,7 @@
     <model>Cityray</model>
     <year>2026</year>
     <title>Geely Cityray Люкс 2026</title>
-    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S95TX418409/0/full.webp?v=c72794db05a5</image_link>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S98TX422082/0/full.webp?v=36d0fbab2421</image_link>
     <price>3204990 RUB</price>
     <sale_price>2399990 RUB</sale_price>
     <min_price>2399990 RUB</min_price>
@@ -574,6 +526,54 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LB3P11SN6TH411067</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB3P11SN8TH412558</id>
+    <link>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-white-2026/</link>
+    <brand>Geely</brand>
+    <model>EX5 Гибрид</model>
+    <year>2026</year>
+    <title>Geely EX5 Гибрид Макс 2026</title>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412558/0/full.webp?v=2864276cb27c</image_link>
+    <price>3829990 RUB</price>
+    <sale_price>3329990 RUB</sale_price>
+    <min_price>3329990 RUB</min_price>
+    <max_price>3829990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3P11SN8TH412558</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB3P11SN8TH413659</id>
+    <link>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-white-2026/</link>
+    <brand>Geely</brand>
+    <model>EX5 Гибрид</model>
+    <year>2026</year>
+    <title>Geely EX5 Гибрид Макс 2026</title>
+    <image_link>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH413659/0/full.webp?v=e4c2634e76ba</image_link>
+    <price>3829990 RUB</price>
+    <sale_price>3329990 RUB</sale_price>
+    <min_price>3329990 RUB</min_price>
+    <max_price>3829990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3P11SN8TH413659</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
