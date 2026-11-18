@@ -738,6 +738,8 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S98TX422082/1/full.webp?v=c707cfdde493</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S98TX422082/2/full.webp?v=ada909662b6b</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S98TX422082/3/full.webp?v=c1048fd614e9</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S98TX422082/4/full.webp?v=b41975ae1fe5</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3G43S98TX422082/5/full.webp?v=84c1bd7a6615</image>
       </images>
     </car>
     <car>
@@ -787,6 +789,27 @@
       </images>
     </car>
     <car>
+      <unique_id>LB3P11SN1TH427015</unique_id>
+      <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>EX5 Гибрид</folder_id>
+      <year>2026</year>
+      <vin>LB3P11SN1TH427015</vin>
+      <price>3829990</price>
+      <sale_price>3329990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>500000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN1TH427015/0/full.webp?v=d7ec0c61d466</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN1TH427015/1/full.webp?v=c3fe07dbd6cc</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LB3P11SN2TH411180</unique_id>
       <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-green-2026/</url>
       <mark_id>Geely</mark_id>
@@ -825,6 +848,7 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/19/full.webp?v=e87463fea25b</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/20/full.webp?v=c2e7b2c73c67</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/21/full.webp?v=2f87419bd947</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/22/full.webp?v=a514c9163543</image>
       </images>
     </car>
     <car>
@@ -866,6 +890,7 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/19/full.webp?v=e87463fea25b</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/20/full.webp?v=c2e7b2c73c67</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/21/full.webp?v=2f87419bd947</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN2TH411180/22/full.webp?v=a514c9163543</image>
       </images>
     </car>
     <car>
@@ -995,6 +1020,48 @@
       </images>
     </car>
     <car>
+      <unique_id>LB3P11SN6TH427060</unique_id>
+      <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>EX5 Гибрид</folder_id>
+      <year>2026</year>
+      <vin>LB3P11SN6TH427060</vin>
+      <price>3829990</price>
+      <sale_price>3329990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>500000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN6TH427060/0/full.webp?v=712e790d1116</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN6TH427060/1/full.webp?v=de9e703840a9</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB3P11SN7TH422336</unique_id>
+      <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>EX5 Гибрид</folder_id>
+      <year>2026</year>
+      <vin>LB3P11SN7TH422336</vin>
+      <price>3829990</price>
+      <sale_price>3329990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>500000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely EX5 Гибрид, Макс, EM-R 1.5hyb AT (218 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN7TH422336/0/full.webp?v=4d242ef4a549</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN7TH422336/1/full.webp?v=cb6c01f507ed</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LB3P11SN7TH425284</unique_id>
       <url>https://geely-partner-saratov.ru/cars/geely-ex5-hybrid-em-r-15hyb-at-218-hp-max-green-2026/</url>
       <mark_id>Geely</mark_id>
@@ -1057,6 +1124,8 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412558/1/full.webp?v=18be7c4e2b78</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412558/2/full.webp?v=66b6eadabda3</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412558/3/full.webp?v=52761dc3f453</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412558/4/full.webp?v=2d6590fcd11d</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH412558/5/full.webp?v=1535b8ad858e</image>
       </images>
     </car>
     <car>
@@ -1080,6 +1149,8 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH413659/1/full.webp?v=9dbc52b04aee</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH413659/2/full.webp?v=bb5cd6b9cec1</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH413659/3/full.webp?v=d5bb57df0a3d</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH413659/4/full.webp?v=cfa0db0fd1bc</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN8TH413659/5/full.webp?v=7282cd58fbcf</image>
       </images>
     </car>
     <car>
@@ -1121,6 +1192,7 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH411046/19/full.webp?v=681767ff9b21</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH411046/20/full.webp?v=f72810b18836</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH411046/21/full.webp?v=0c45f0200245</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH411046/22/full.webp?v=da5a9fcece81</image>
       </images>
     </car>
     <car>
@@ -1162,6 +1234,7 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/19/full.webp?v=1f9c83e66c02</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/20/full.webp?v=8be3dd357254</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/21/full.webp?v=8a1cd440d49e</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/22/full.webp?v=8b5862417855</image>
       </images>
     </car>
     <car>
@@ -1203,6 +1276,7 @@
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/19/full.webp?v=1f9c83e66c02</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/20/full.webp?v=8be3dd357254</image>
         <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/21/full.webp?v=8a1cd440d49e</image>
+        <image>https://img.upspace.ru/cars/geely-partner-saratov.ru/new/LB3P11SN9TH415923/22/full.webp?v=8b5862417855</image>
       </images>
     </car>
   </cars>
